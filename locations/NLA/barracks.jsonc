@@ -37,8 +37,7 @@
 
 				]
 			},
-			
-				
+
 			{
 			"name": "The Repair Job",
 			"sections":[
@@ -300,17 +299,31 @@
 						"y": 350,
 						"size": 10
 					}
-
 				]
 			}
 		]
-	}
+},
+{
+	"name":"LOC",
+	"children":[
+		{
+			"name": "Blade-Barracks",
+			"sections":[
+				{
+					"name":"Barracks Interior",
+					"access_rules":["chap:1"]
+				}
+			],
+				"map_locations": [
+				{				
+				"map": "Barks",
+					"x": 216,
+					"y": 447,
+					"size": 10
+				}
+			]
+		}
+	]
+}
+
 ]
-						
-	
-	
-
-
-	///
-	///				"chest_unopened_img": "images/items/incomplete.png",
-    ///     			"chest_opened_img": "images/items/complete.png"},

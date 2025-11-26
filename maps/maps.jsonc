@@ -25,6 +25,30 @@
     "img": "images/maps/NLA.png"
   },
   {
+    "name": "Admin",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Admin.png"
+  },
+  {
+    "name": "Commercial",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Commercial.png"
+  },
+  {
+    "name": "Industrial",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Industrial.png"
+  },
+  {
+    "name": "Residential",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Residential.png"
+  },
+  {
     "name": "Prm",
     "location_size": 48,
     "location_border_thickness": 4,
