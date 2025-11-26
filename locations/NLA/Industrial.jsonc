@@ -3,6 +3,7 @@
 "name": "Industrial-District",
 "children":[
 	{
+
 	"name":"Celica 5 H2H",
 	"sections":[
 	    {
@@ -13,7 +14,7 @@
 	{
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 400,
 			"size": 10
@@ -31,7 +32,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 380,
 			"size": 10
@@ -49,7 +50,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 360,
 			"size": 10
@@ -67,7 +68,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 340,
 			"size": 10
@@ -85,7 +86,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 320,
 			"size": 10
@@ -103,7 +104,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 300,
 			"size": 10
@@ -121,7 +122,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 280,
 			"size": 10
@@ -139,7 +140,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 260,
 			"size": 10
@@ -157,7 +158,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 240,
 			"size": 10
@@ -175,7 +176,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 220,
 			"size": 10
@@ -193,7 +194,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 200,
 			"size": 10
@@ -211,7 +212,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 180,
 			"size": 10
@@ -229,7 +230,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 160,
 			"size": 10
@@ -247,7 +248,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 140,
 			"size": 10
@@ -265,7 +266,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 120,
 			"size": 10
@@ -283,7 +284,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 100,
 			"size": 10
@@ -301,7 +302,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 200,
 			"y": 80,
 			"size": 10
@@ -319,7 +320,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 400,
 			"size": 10
@@ -337,7 +338,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 380,
 			"size": 10
@@ -355,7 +356,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 360,
 			"size": 10
@@ -373,7 +374,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 340,
 			"size": 10
@@ -391,7 +392,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 320,
 			"size": 10
@@ -409,7 +410,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 300,
 			"size": 10
@@ -427,7 +428,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 280,
 			"size": 10
@@ -445,7 +446,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 260,
 			"size": 10
@@ -463,7 +464,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 260,
 			"size": 10
@@ -481,7 +482,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 240,
 			"size": 10
@@ -499,7 +500,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 220,
 			"size": 10
@@ -517,7 +518,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 200,
 			"size": 10
@@ -535,7 +536,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 180,
 			"size": 10
@@ -553,7 +554,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 160,
 			"size": 10
@@ -571,7 +572,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 140,
 			"size": 10
@@ -589,7 +590,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 120,
 			"size": 10
@@ -607,7 +608,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 100,
 			"size": 10
@@ -625,7 +626,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 220,
 			"y": 80,
 			"size": 10
@@ -643,7 +644,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 400,
 			"size": 10
@@ -661,7 +662,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 380,
 			"size": 10
@@ -679,7 +680,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 360,
 			"size": 10
@@ -697,7 +698,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 340,
 			"size": 10
@@ -715,7 +716,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 320,
 			"size": 10
@@ -733,7 +734,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 300,
 			"size": 10
@@ -751,7 +752,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 280,
 			"size": 10
@@ -769,7 +770,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 260,
 			"size": 10
@@ -787,7 +788,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 240,
 			"size": 10
@@ -805,7 +806,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 220,
 			"size": 10
@@ -823,7 +824,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 200,
 			"size": 10
@@ -841,7 +842,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 180,
 			"size": 10
@@ -859,7 +860,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 160,
 			"size": 10
@@ -877,7 +878,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 140,
 			"size": 10
@@ -895,7 +896,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 120,
 			"size": 10
@@ -913,7 +914,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 100,
 			"size": 10
@@ -931,7 +932,7 @@
 	],
 	"map_locations": [
 		{
-			"map": "Industrial",
+			"map": "NLA",
 			"x": 240,
 			"y": 80,
 			"size": 10
@@ -940,7 +941,7 @@
 	]
 	}
 ]
-}]
+}] 
 	
 
 
