@@ -9,11 +9,16 @@
         "maps": ["WlrdMp"]
             }
         },
-            {
-              "title": "Manon Ship",
+        {
+            "title": "New Los Angeles",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+              "title": "NLA",
               "content": {
                 "type": "map",
-                "maps": ["MnShp"]
+                "maps": ["NLA"]
               }
             },
             {
@@ -24,10 +29,41 @@
               }
             },
             {
-              "title": "NLA",
+              "title": "Manon Ship",
               "content": {
                 "type": "map",
-                "maps": ["NLA"]
+                "maps": ["MnShp"]
+              }
+            },
+            {
+              "title": "Admin",
+              "content": {
+                "type": "map",
+                "maps": ["Admin"]
+              }
+            },
+            {
+              "title": "Commercial",
+              "content": {
+                "type": "map",
+                "maps": ["Commercial"]
+              }
+            },
+            {
+              "title": "Residential ",
+              "content": {
+                "type": "map",
+                "maps": ["Residential"]
+              }
+            },
+            {
+              "title": "Industrial",
+              "content": {
+                "type": "map",
+                "maps": ["Industrial"]
+              }
+            }
+                ]
               }
             },
             {

@@ -1,0 +1,328 @@
+[{
+		"name": "Blade-Barracks",
+		"children":[
+			{
+				"name":"Elma Heart to Heart",
+				"sections":[
+				    {
+                    "ref":"SEG/Blade-Barracks/Elma 5 H2H"
+					}
+				],
+				"map_locations": [
+					{				
+						"map": "Barks",
+						"x": 300,
+						"y": 350,
+						"size": 10
+					}
+				]
+				
+
+			},
+
+			{
+			"name":"Nagi Heart to Heart",
+			"sections":[
+				{
+				"ref": "SEG/Blade-Barracks/Nagi 4 H2H"
+				}
+				],
+			"map_locations": [	
+					{				
+						"map": "Barks",
+						"x": 370,
+						"y": 380,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name": "The Repair Job",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/The Repair Job"
+				}
+				],
+			"map_locations": [
+					{				
+						"map": "Barks",
+						"x": 220,
+						"y": 345,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"We Were Soldiers",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/We Were Soldiers"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 365,
+						"y": 410,
+						"size": 10
+					}
+				]
+		    },
+
+			{
+			"name":"A Day in the Life",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Day in the Life"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 280,
+						"y": 325,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"BFFs",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/BFFs"
+				}
+			],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 435,
+						"y": 415,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"A Friend in Need",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Friend in Need"
+				}
+			],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 470,
+						"y": 415,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"Nagis Time",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Nagis Time"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 310,
+						"y": 405,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"Prospective Partners",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Prospective Partners"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 470,
+						"y": 355,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"A Challenger Approaches",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Challenger Approaches"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 355,
+						"y": 325,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"Two Peas in a Pod",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Two Peas in a Pod"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 405,
+						"y": 410,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
+			"name":"Fathers and Sons",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Fathers and Sons"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 420,
+						"y": 320,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
+			"name":"Then and Now",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Then and Now"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 270,
+						"y": 375,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"To Serve Nopon",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/To Serve Nopon"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 270,
+						"y": 415,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
+			"name":"Lin",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Lin"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 225,
+						"y": 410,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
+			"name":"Elma",
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Elma"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 405,
+						"y": 355,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+				"name":"Blade Barracks Interior",
+			"sections":[
+				{
+				"ref":"LOC/Blade-Barracks/Barracks Interior"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 345,
+						"y": 350,
+						"size": 10
+					}
+				]
+			}
+		]
+},
+{
+	"name":"LOC",
+	"children":[
+		{
+			"name": "Blade-Barracks",
+			"sections":[
+				{
+					"name":"Barracks Interior",
+					"access_rules":["chap:1"]
+				}
+			],
+				"map_locations": [
+				{				
+				"map": "Barks",
+					"x": 216,
+					"y": 447,
+					"size": 10
+				}
+			]
+		}
+	]
+}
+]
