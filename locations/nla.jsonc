@@ -1,6 +1,6 @@
 [{
-		"name": "SEG",
-		"children":[
+"name": "SEG",
+"children":[
 //industrial
 {
 	"name":"Industrial-District",
@@ -932,7 +932,84 @@
 	]
 }		
 ]	
-}]
+},
+{
+	"name":"LOC",
+	"access_rules":["chap:1"],
+	"children":[{
+
+		"name":"Industrial",
+		"access_rules":["chap:1"],
+		"sections":[
+			{
+		"name":"Outfitters Test Hangar"
+			},
+			{
+		"name":"Integrated Production Plant"
+			},
+			{
+		"name":"Central Industrial-Districtrial District"
+			},
+			{
+		"name":"Repenta Diner"
+			},
+			{
+		"name":"Professor Bs Lab",
+		"access_rules":["Mystery Man"]
+			},
+			{
+		"name":"West Gate"
+			}
+		]
+	},
+
+	{
+		"name":"Residental",
+	"access_rules":["chap:1"],
+	"sections":[]
+	},
+	{
+		"name":"Commercial",
+	"access_rules":["chap:1"],
+	"sections":[
+		{
+	"name":"West Melville Street"
+		},
+	{
+	"name":"Central Melville Street"
+		},
+		{
+	"name":"East Melville Street"
+		},
+		{
+	"name":"Barista Court"
+		},
+		{
+	"name":"North Founders Street"
+		},
+		{
+	"name":"Nopon Bazaar",
+	"access_rules":["BFFs"]
+		}
+	]
+	},
+	{
+		"name":"Admin",
+	"access_rules":["chap:1"],
+	"sections":[]
+	},
+	{
+		"name":"Ma-non",
+	"access_rules":["chap:1"],
+	"sections":[]
+	}
+	
+	]
+}
+
+
+]
+
 
 
 	///

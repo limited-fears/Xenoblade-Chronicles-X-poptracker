@@ -2408,39 +2408,44 @@ LOCATION_MAPPING = {
 		--NLA	
 			--blade barracks
 				[4102401] = {"@LOC/Blade-Barracks/Barracks Interior"},
-			--Administrative district
-	[4102403] = {"@LOC/West Gate"},
-	[4102404] = {"@LOC/Central Industrial-Districtrial District"},
-	[4102405] = {"@LOC/Integrated Production Plant"},
-	[4102406] = {"@LOC/Outfitters Test Hangar"},
-	[4102407] = {"@LOC/Repenta Diner"},
-	[4102408] = {"@LOC/Professor Bs Lab"},
-	[4102409] = {"@LOC/West Melville Street"},
-	[4102410] = {"@LOC/Central Melville Street"},
-	[4102411] = {"@LOC/East Melville Street"},
-	[4102412] = {"@LOC/Barista Court"},
-	[4102413] = {"@LOC/North Founders Street"},
-	[4102414] = {"@LOC/Nopon Bazaar"},
-	[4102415] = {"@LOC/Deck"},
-	[4102416] = {"@LOC/Starboard"},
-	[4102417] = {"@LOC/Port Side"},
-	[4102418] = {"@LOC/Water Purification Plant"},
-	[4102419] = {"@LOC/Deliverance Park"},
-	[4102420] = {"@LOC/Cathedral"},
-	[4102421] = {"@LOC/Sports Complex"},
-	[4102422] = {"@LOC/Ishmael Hills"},
-	[4102423] = {"@LOC/Division Drive"},
-	[4102424] = {"@LOC/Armory Alley"},
-	[4102425] = {"@LOC/Yardleys Hideaway"},
-	[4102426] = {"@LOC/East Gate"},
-	[4102427] = {"@LOC/BLADE Tower"},
-	[4102428] = {"@LOC/BLADE Concourse"},
-	[4102429] = {"@LOC/BLADE Barracks"},
-	[4102430] = {"@LOC/Mimeosome Maintenance Center"},
-	[4102431] = {"@LOC/Hangar"},
-	[4102432] = {"@LOC/Restricted Hangar Entrance"},
+			--industrial
+				[4102406] = {"@LOC/Industrial/Outfitters Test Hangar"},
+				[4102405] = {"@LOC/Industrial/Integrated Production Plant"},
+				[4102404] = {"@LOC/Industrial/Central Industrial-Districtrial District"},
+				[4102407] = {"@LOC/Industrial/Repenta Diner"},
+				[4102408] = {"@LOC/Industrial/Professor Bs Lab"},
+				[4102403] = {"@LOC/Industrial/West Gate"},
+			--commercial
+				[4102409] = {"@LOC/Commercial/West Melville Street"},
+				[4102410] = {"@LOC/Commercial/Central Melville Street"},
+				[4102411] = {"@LOC/Commercial/East Melville Street"},
+				[4102412] = {"@LOC/Commercial/Barista Court"},
+				[4102413] = {"@LOC/Commercial/North Founders Street"},
+				[4102414] = {"@LOC/Commercial/Nopon Bazaar"},
+			--ma-non ship
+				[4102415] = {"@LOC/Deck"},
+				[4102416] = {"@LOC/Starboard"},
+				[4102417] = {"@LOC/Port Side"},
 
-				--primordia
+			--residental
+				[4102418] = {"@LOC/Water Purification Plant"},
+				[4102419] = {"@LOC/Deliverance Park"},
+				[4102420] = {"@LOC/Cathedral"},
+				[4102421] = {"@LOC/Sports Complex"},
+				[4102422] = {"@LOC/Ishmael Hills"},
+			--administrative
+				[4102423] = {"@LOC/Division Drive"},
+				[4102424] = {"@LOC/Armory Alley"},
+				[4102425] = {"@LOC/Yardleys Hideaway"},
+				[4102426] = {"@LOC/East Gate"},
+				[4102427] = {"@LOC/BLADE Tower"},
+				[4102428] = {"@LOC/BLADE Concourse"},
+				[4102429] = {"@LOC/BLADE Barracks"},
+				[4102430] = {"@LOC/Mimeosome Maintenance Center"},
+				[4102431] = {"@LOC/Hangar"},
+				[4102432] = {"@LOC/Restricted Hangar Entrance"},
+
+		--primordia
 
 		--noctilum
 
@@ -2450,9 +2455,6 @@ LOCATION_MAPPING = {
 
 		--sylvalum
 
-
-
-	
 	[4102433] = {"@LOC/Bedrock Hold"},
 	[4102434] = {"@LOC/Stonelattice Cavern"},
 	[4102435] = {"@LOC/Greater Gemini Bridge"},
