@@ -1553,86 +1553,86 @@ LOCATION_MAPPING = {
 		
 		--h2h
 		[4101813] = {"@SEG/Industrial-District/Celica 5 H2H"}, --- /Test Hangar
-		[4101814] = {"@SEG/Industrial-District/Nagi 2 H2H/Test Hangar"},
-		[4101819] = {"@SEG/Industrial-District/Celica 4 H2H/Production Plant"},
+		[4101814] = {"@SEG/Industrial-District/Nagi 2 H2H"},
+		[4101819] = {"@SEG/Industrial-District/Celica 4 H2H"},
 		[4101829] = {"@SEG/Industrial-District/Doug 2 H2H/Central"},
-		[4101831] = {"@SEG/Industrial-District/Murderess 3 H2H/Production Plant"},
-		[4101835] = {"@SEG/Industrial-District/Irina 4 H2H/Test Hangar"},
-		[4101836] = {"@SEG/Industrial-District/Lin 1 H2H/Test Hangar"},
-		[4101839] = {"@SEG/Industrial-District/Elma 1 H2H/Central"},
-		[4101850] = {"@SEG/Industrial-District/Mia 3 H2H/Test Hangar"},
-		[4101851] = {"@SEG/Industrial-District/Hope 3 H2H/Central "},
-		[4101853] = {"@SEG/Industrial-District/Irina 1 H2H/Central"},
-		[4101854] = {"@SEG/Industrial-District/Frye 5 H2H/Production Plant"},
-		[4101856] = {"@SEG/Industrial-District/Celica 1 H2H/Test Hangar"},
-		[4101865] = {"@SEG/Industrial-District/Frye 1 H2H/Repenta Diner"},
+		[4101831] = {"@SEG/Industrial-District/Murderess 3 H2H"},
+		[4101835] = {"@SEG/Industrial-District/Irina 4 H2H"},
+		[4101836] = {"@SEG/Industrial-District/Lin 1 H2H"},
+		[4101839] = {"@SEG/Industrial-District/Elma 1 H2H"},
+		[4101850] = {"@SEG/Industrial-District/Mia 3 H2H"},
+		[4101851] = {"@SEG/Industrial-District/Hope 3 H2H "},
+		[4101853] = {"@SEG/Industrial-District/Irina 1 H2H"},
+		[4101854] = {"@SEG/Industrial-District/Frye 5 H2H"},
+		[4101856] = {"@SEG/Industrial-District/Celica 1 H2H"},
+		[4101865] = {"@SEG/Industrial-District/Frye 1 H2H"},
 
 		--ch3
-		[4101822] = {"@SEG/Industrial-District/Yardleys Scheme/Test Hangar"},
-		[4101823] = {"@SEG/Industrial-District/Off the Record Biological/Test Hangar"},
-		[4101832] = {"@SEG/Industrial-District/Forest Foray/Production Plant"},	
-		[4101849] = {"@SEG/Industrial-District/Rise of the Blood Lobster/Test Hangar"},	
+		[4101822] = {"@SEG/Industrial-District/Yardleys Scheme"},
+		[4101823] = {"@SEG/Industrial-District/Off the Record Biological"},
+		[4101832] = {"@SEG/Industrial-District/Forest Foray"},	
+		[4101849] = {"@SEG/Industrial-District/Rise of the Blood Lobster"},	
 
 		--ch4
-		[4101830] = {"@SEG/Industrial-District/A Proper Chopper/Central"},
-		[4101866] = {"@SEG/Industrial-District/Bottoms Up/Repenta Diner"},
+		[4101830] = {"@SEG/Industrial-District/A Proper Chopper"},
+		[4101866] = {"@SEG/Industrial-District/Bottoms Up"},
 
 		--ch5
-		[4101847] = {"@SEG/Industrial-District/The Pip-Squeak/Test Hangar/Chp 5"},
-		[4101857] = {"@SEG/Industrial-District/Mystery Man/Central/Chp 5"},
+		[4101847] = {"@SEG/Industrial-District/The Pip-Squeak"},
+		[4101857] = {"@SEG/Industrial-District/Mystery Man"},
 
 		--ch7
-		[4101833] = {"@SEG/Industrial-District/Pollution Solution/Production Plant/Chp 7"},
-		[4101834] = {"@SEG/Industrial-District/Good Neighbors/Test Hangar/Chp 7"},
-		[4101858] = {"@SEG/Industrial-District/The Voltant Visionary/Central/Chp 7"},
-		[4101863] = {"@SEG/Industrial-District/Professor Bs Return/Central/Chp 7"},
+		[4101833] = {"@SEG/Industrial-District/Pollution Solution"},
+		[4101834] = {"@SEG/Industrial-District/Good Neighbors"},
+		[4101858] = {"@SEG/Industrial-District/The Voltant Visionary"},
+		[4101863] = {"@SEG/Industrial-District/Professor Bs Return"},
 
 		--ch8
-		[4101817] = {"@SEG/Industrial-District/Data Probe Challenge/Test Hangar/Chp 8"},
-		[4101840] = {"@SEG/Industrial-District/Lone Survivors/Central/Chp 8"},
-		[4101841] = {"@SEG/Industrial-District/Entrepreneurial Spirit/Central/Chp 8"},
+		[4101817] = {"@SEG/Industrial-District/Data Probe Challenge"},
+		[4101840] = {"@SEG/Industrial-District/Lone Survivors"},
+		[4101841] = {"@SEG/Industrial-District/Entrepreneurial Spirit"},
 
 		--ch9
-		[4101820] = {"@SEG/Industrial-District/New in New LA/Production Plant/Chp 9"},
-		[4101826] = {"@SEG/Industrial-District/A Girls Wings/Test Hangar/Chp 9"},
-		[4101827] = {"@SEG/Industrial-District/Muimuis Meltdown/Central/Chp 9"},
-		[4101852] = {"@SEG/Industrial-District/Pack It In/Central/Chp 9"},	
-		[4101861] = {"@SEG/Industrial-District/The Good Thief/Repenta Diner/Chp 9"},
+		[4101820] = {"@SEG/Industrial-District/New in New LA"},
+		[4101826] = {"@SEG/Industrial-District/A Girls Wings"},
+		[4101827] = {"@SEG/Industrial-District/Muimuis Meltdown"},
+		[4101852] = {"@SEG/Industrial-District/Pack It In"},	
+		[4101861] = {"@SEG/Industrial-District/The Good Thief"},
 
 		--ch10
-		[4101818] = {"@SEG/Industrial-District/Good Fortun/Central/Chp 10"},
-		[4101824] = {"@SEG/Industrial-District/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
-		[4101828] = {"@SEG/Industrial-District/Turf War/Central/Chp 10"},
-		[4101844] = {"@SEG/Industrial-District/Orphean Pluck/Production Plant/Chp 10"},
-		[4101845] = {"@SEG/Industrial-District/Data Probe Progress/Production Plant/Chp 10"},
+		[4101818] = {"@SEG/Industrial-District/Good Fortun"},
+		[4101824] = {"@SEG/Industrial-District/Boot Camp"},	
+		[4101828] = {"@SEG/Industrial-District/Turf War"},
+		[4101844] = {"@SEG/Industrial-District/Orphean Pluck"},
+		[4101845] = {"@SEG/Industrial-District/Data Probe Progress"},
 
 		--ch11
-		[4101816] = {"@SEG/Industrial-District/Two Warriors/Test Hangar/Chp 11"},
-		[4101837] = {"@SEG/Industrial-District/Data Probe Breakthrough/Test Hangar/Chp 11"},
-		[4101842] = {"@SEG/Industrial-District/Child of Mira/Central/Chp 11"},
-		[4101862] = {"@SEG/Industrial-District/Fitting In/Test Hangar/Chp 11"},
-		[4101864] = {"@SEG/Industrial-District/Gold Rush/Central/Chp 11"},	
+		[4101816] = {"@SEG/Industrial-District/Two Warriors1"},
+		[4101837] = {"@SEG/Industrial-District/Data Probe Breakthrough1"},
+		[4101842] = {"@SEG/Industrial-District/Child of Mira"},
+		[4101862] = {"@SEG/Industrial-District/Fitting In"}
+		[4101864] = {"@SEG/Industrial-District/Gold Rush"},	
 
 
 		--ch12
-		[4101815] = {"@SEG/Industrial-District/The Gauntlet/Test Hangar/Chp 12"},
-		[4101838] = {"@SEG/Industrial-District/Data Probe Revolution/Test Hangar/Chp 12"},
-		[4101846] = {"@SEG/Industrial-District/Data Probe Evolution/Test Hangar/Chp 12"},
-		[4101848] = {"@SEG/Industrial-District/Professorial/Test Hangar/Chp 12"},
+		[4101815] = {"@SEG/Industrial-District/The Gauntlet"},
+		[4101838] = {"@SEG/Industrial-District/Data Probe Revolution"},
+		[4101846] = {"@SEG/Industrial-District/Data Probe Evolution"},
+		[4101848] = {"@SEG/Industrial-District/Professorial"},
 
 
 
 		--char
 		[4101821] = {"@SEG/Industrial-District/Celica"},
-		[4101855] = {"@SEG/Industrial-District/Alexa/Test Hangar"},
-		[4101859] = {"@SEG/Industrial-District/Horonalderon/Aff Shift"},
-		[4101860] = {"@SEG/Industrial-District/Frye/Repenta Diner"},
+		[4101855] = {"@SEG/Industrial-District/Alexa"},
+		[4101859] = {"@SEG/Industrial-District/Horonalderon"},
+		[4101860] = {"@SEG/Industrial-District/Frye"},
 
 		--arc
-		[4101825] = {"@SEG/Industrial-District/Alien Wreckage/Test Hangar/Archeological 2"},
+		[4101825] = {"@SEG/Industrial-District/Alien Wreckage"},
 
 		--mech
-		[4101843] = {"@SEG/Industrial-District/Container/Production Plant/Mechanical 3"},
+		[4101843] = {"@SEG/Industrial-District/Container"},
 	--Commercial-District
 		--H2H
 		[4101868] = {"@SEG/Commercial-District/Gwin 5 H2H/West Melville Street"},

@@ -148,7 +148,7 @@
 	},
 	{
 		"name":"Boot Camp",
-		"access_rules":["Chap:10"]
+		"access_rules":["Chap:10","Gwin:1"]
 	},
 	{
 		"name":"Turf War",
@@ -213,8 +213,15 @@
 	{
 		"name":"Horonalderon",
 		"access_rules":["Dead Men Tell No Tales"]
-	}
-
+	},
+{
+	"name":"Container",
+	"access_rules":["Mechanical:3"]
+},
+{
+	"name":"Alien Wreckage",
+	"access_rules":["Archeological:2"]
+}
 ],
 "map_locations": [
 		{				

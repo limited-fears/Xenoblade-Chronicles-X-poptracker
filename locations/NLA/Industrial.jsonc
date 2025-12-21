@@ -263,8 +263,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 200,
-			"y": 120,
+			"x": 124,
+			"y": 516,
 			"size": 10
 
 		}
@@ -281,8 +281,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 200,
-			"y": 100,
+			"x": 114,
+			"y": 584,
 			"size": 10
 
 		}
@@ -299,8 +299,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 200,
-			"y": 80,
+			"x": 185,
+			"y": 365,
 			"size": 10
 
 		}
@@ -317,8 +317,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 400,
+			"x": 208,
+			"y": 701,
 			"size": 10
 
 		}
@@ -335,8 +335,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 380,
+			"x": 154,
+			"y": 230,
 			"size": 10
 
 		}
@@ -353,8 +353,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 360,
+			"x": 351,
+			"y": 415,
 			"size": 10
 
 		}
@@ -371,8 +371,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 340,
+			"x": 202,
+			"y": 583,
 			"size": 10
 
 		}
@@ -389,8 +389,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 320,
+			"x": 307,
+			"y": 88,
 			"size": 10
 
 		}
@@ -407,8 +407,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 300,
+			"x": 158,
+			"y": 447,
 			"size": 10
 
 		}
@@ -425,8 +425,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 280,
+			"x": 164,
+			"y": 547,
 			"size": 10
 
 		}
@@ -443,8 +443,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 260,
+			"x": 304,
+			"y": 128,
 			"size": 10
 
 		}
@@ -461,8 +461,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 260,
+			"x": 343,
+			"y": 66,
 			"size": 10
 
 		}
@@ -479,8 +479,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 240,
+			"x": 69,
+			"y": 787,
 			"size": 10
 
 		}
@@ -497,8 +497,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 220,
+			"x": 223,
+			"y": 145,
 			"size": 10
 
 		}
@@ -515,8 +515,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 200,
+			"x": 230,
+			"y": 207,
 			"size": 10
 
 		}
@@ -533,8 +533,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 180,
+			"x": 114,
+			"y": 405,
 			"size": 10
 
 		}
@@ -551,8 +551,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 160,
+			"x": 122,
+			"y": 775,
 			"size": 10
 
 		}
@@ -569,8 +569,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 140,
+			"x": 177,
+			"y": 69,
 			"size": 10
 
 		}
@@ -587,8 +587,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 120,
+			"x": 243,
+			"y": 172,
 			"size": 10
 
 		}
@@ -605,8 +605,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 100,
+			"x": 321,
+			"y": 461,
 			"size": 10
 
 		}
@@ -623,8 +623,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 220,
-			"y": 80,
+			"x": 123,
+			"y": 225,
 			"size": 10
 
 		}
@@ -641,8 +641,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 400,
+			"x": 120,
+			"y": 634,
 			"size": 10
 
 		}
@@ -659,8 +659,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 380,
+			"x": 175,
+			"y": 134,
 			"size": 10
 
 		}
@@ -677,8 +677,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 360,
+			"x": 216,
+			"y": 390,
 			"size": 10
 
 		}
@@ -695,8 +695,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 340,
+			"x": 204,
+			"y": 447,
 			"size": 10
 
 		}
@@ -713,8 +713,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 320,
+			"x": 72,
+			"y": 735,
 			"size": 10
 
 		}
@@ -731,8 +731,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 300,
+			"x": 164,
+			"y": 736,
 			"size": 10
 
 		}
@@ -749,8 +749,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 280,
+			"x": 207,
+			"y": 267,
 			"size": 10
 
 		}
@@ -767,8 +767,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 260,
+			"x": 312,
+			"y": 575,
 			"size": 10
 
 		}
@@ -785,8 +785,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 240,
+			"x": 343,
+			"y": 102,
 			"size": 10
 
 		}
@@ -803,8 +803,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 220,
+			"x": 62,
+			"y": 671,
 			"size": 10
 
 		}
@@ -821,8 +821,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 200,
+			"x": 169,
+			"y": 795,
 			"size": 10
 
 		}
@@ -839,8 +839,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 180,
+			"x": 215,
+			"y": 509,
 			"size": 10
 
 		}
@@ -857,8 +857,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 240,
-			"y": 160,
+			"x": 225,
+			"y": 645,
 			"size": 10
 
 		}
@@ -931,6 +931,42 @@
 			"map": "Industrial",
 			"x": 315,
 			"y": 379,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"container",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Container"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "Industrial",
+			"x": 234,
+			"y": 322,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Alien Wreckage",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Alien Wreckage"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "Industrial",
+			"x": 116,
+			"y": 704,
 			"size": 10
 
 		}
