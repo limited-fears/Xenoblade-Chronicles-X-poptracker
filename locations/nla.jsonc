@@ -200,20 +200,21 @@
 	},
 	{
 		"name":"Celica",
-		"access_rules":[]
+		"access_rules":["Manhunt"]
 	},
 	{
 		"name":"Alexa",
-		"access_rules":[]
+		"access_rules":["weaponized"]
+	},
+	{
+		"name":"Frye",
+		"access_rules":["bottoms up"]
 	},
 	{
 		"name":"Horonalderon",
 		"access_rules":["Dead Men Tell No Tales"]
-	},
-	{
-		"name":"Frye",
-		"access_rules":[]
 	}
+
 ],
 "map_locations": [
 		{				
