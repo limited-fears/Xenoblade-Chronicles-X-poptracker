@@ -955,7 +955,7 @@
 			},
 			{
 		"name":"Professor Bs Lab",
-		"access_rules":["Mystery Man"]
+		"access_rules":["{Mystery Man}"]
 			},
 			{
 		"name":"West Gate"

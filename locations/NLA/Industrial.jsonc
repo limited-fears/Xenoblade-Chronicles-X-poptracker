@@ -1006,8 +1006,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 165,
-			"y": 124,
+			"x": 128,
+			"y": 77,
 			"size": 10
 
 		}
@@ -1042,8 +1042,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 271,
-			"y": 229,
+			"x": 188,
+			"y": 180,
 			"size": 10
 
 		}
@@ -1060,8 +1060,8 @@
 	"map_locations": [
 		{
 			"map": "Industrial",
-			"x": 191,
-			"y": 365,
+			"x": 141,
+			"y": 360,
 			"size": 10
 
 		}
