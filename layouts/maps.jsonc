@@ -6,100 +6,108 @@
         "title": "World Map",
         "content": {
         "type": "map",
-        "maps": ["WlrdMp"]
+        "tabs": [ 
+          {
+              "title": "Mira",
+              "content": {
+                "type": "map",
+                "maps": ["WrldMp"]
+              }
+          },
+         {
+            "title": "Primordia",
+            "content": {
+              "type": "map",
+              "maps": ["Prm"]
+            }
+          },
+          {
+            "title": "Noctilum",
+            "content": {
+              "type": "map",
+              "maps": ["Noc"]
+            }
+          },
+          {
+            "title": "Oblivia",
+            "content": {
+              "type": "map",
+              "maps": ["Obl"]
+            }
+          },
+          {
+            "title": "Sylum",
+            "content": {
+              "type": "map",
+              "maps": ["Syl"]
+            }
+          },
+          {
+            "title": "Cauldros",
+            "content": {
+              "type": "map",
+              "maps": ["Cau"]
+              }
+          }
+          ]
             }
         },
-        {
-            "title": "New Los Angeles",
-              "content": {
-                "type": "tabbed",
-                "tabs": [
-                  {
-              "title": "NLA",
-              "content": {
-                "type": "map",
-                "maps": ["NLA"]
-              }
-            },
+  {
+      "title": "New Los Angeles",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
             {
-              "title": "barracks",
-              "content": {
-                "type": "map",
-                "maps": ["Barks"]
-              }
-            },
-            {
-              "title": "Manon Ship",
-              "content": {
-                "type": "map",
-                "maps": ["MnShp"]
-              }
-            },
-            {
-              "title": "Admin",
-              "content": {
-                "type": "map",
-                "maps": ["Admin"]
-              }
-            },
-            {
-              "title": "Commercial",
-              "content": {
-                "type": "map",
-                "maps": ["Commercial"]
-              }
-            },
-            {
-              "title": "Residential ",
-              "content": {
-                "type": "map",
-                "maps": ["Residential"]
-              }
-            },
-            {
-              "title": "Industrial",
-              "content": {
-                "type": "map",
-                "maps": ["Industrial"]
-              }
-            }
+        "title": "NLA",
+        "content": {
+          "type": "map",
+          "maps": ["NLA"]
+        }
+      },
+      {
+        "title": "barracks",
+        "content": {
+          "type": "map",
+          "maps": ["Barks"]
+        }
+      },
+      {
+        "title": "Manon Ship",
+        "content": {
+          "type": "map",
+          "maps": ["MnShp"]
+        }
+      },
+      {
+        "title": "Admin",
+        "content": {
+          "type": "map",
+          "maps": ["Admin"]
+        }
+      },
+      {
+        "title": "Commercial",
+        "content": {
+          "type": "map",
+          "maps": ["Commercial"]
+        }
+      },
+      {
+        "title": "Residential ",
+        "content": {
+          "type": "map",
+          "maps": ["Residential"]
+        }
+      },
+      {
+        "title": "Industrial",
+        "content": {
+          "type": "map",
+          "maps": ["Industrial"]
+        }
+      }
                 ]
               }
-            },
-            {
-              "title": "Primordia",
-              "content": {
-                "type": "map",
-                "maps": ["Prm"]
-              }
-            },
-            {
-              "title": "Noctilum",
-              "content": {
-                "type": "map",
-                "maps": ["Noc"]
-              }
-            },
-            {
-              "title": "Oblivia",
-              "content": {
-                "type": "map",
-                "maps": ["Obl"]
-              }
-            },
-            {
-              "title": "Sylum",
-              "content": {
-                "type": "map",
-                "maps": ["Syl"]
-              }
-            },
-            {
-              "title": "Cauldros",
-              "content": {
-                "type": "map",
-                "maps": ["Cau"]
-                }
             }
         ]
     }

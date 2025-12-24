@@ -930,7 +930,93 @@
 			"size": 5
 		}
 	]
-}		
+},
+{ 
+	"name":"Manon-Ship",
+	"access_rules":["chap:4"],
+	"sections":[
+{
+	"name":"L 2 H2H"
+},
+{
+	"name":"Elma 4 H2H"
+},
+{
+	"name":"Tree-mendous/Chp 5"
+},
+{
+	"name":"A Grim Undertaking/Chp 6"
+},
+{
+	"name":"The Membership/Chp 6"
+},
+{
+	"name":"Gorkwa Games/Chp 7"
+},
+{
+	"name":"Training Day/Chp 7"
+},
+{
+	"name":"Forbidden Love/Chp 8"
+},		
+{
+	"name":"The Art of War/Chp 8"
+},
+{
+	"name":"Here Come the Brides/Chp 9"
+},
+{
+	"name":"No-show Nenceleg/Chp 10"
+},
+{
+	"name":"House Call/Chp 10"
+},
+{
+	"name":"A New Life/Chp 11"
+},
+{
+	"name":"Slovitys Revenge/Chp 11"
+},
+{
+	"name":"The Unbreakable Sword/Chp 12"
+},
+{
+	"name":"The Lurker/Chp 12"
+},
+{
+	"name":"Snipe Hunt/Chp 12"
+},
+{
+	"name":"The Old Gods/Chp 12"
+},
+{
+	"name":"An Ancient Legend/Chp 12"
+},
+{
+	"name":"The Party Line/Chp 12"
+},
+{
+	"name":"Mia"
+},
+
+	//missions
+
+{
+	"name":"Sunceleg Rises"
+},
+{
+	"name":"Zurranik/Aff Shift"
+}
+	],
+	"map_locations": [
+		{				
+			"map": "NLA",
+			"x": 155,
+			"y": 331,
+			"size": 5
+		}
+	]
+}
 ]	
 },
 {
@@ -1001,7 +1087,17 @@
 	{
 		"name":"Ma-non",
 	"access_rules":["chap:1"],
-	"sections":[]
+	"sections":[{
+		"name":"deck"
+	},
+	{
+		"name":"StarBoard"
+	},
+	{
+		"name":"PortSide"
+	}
+
+]
 	}
 	
 	]
