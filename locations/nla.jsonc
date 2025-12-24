@@ -989,7 +989,7 @@
 		},
 		{
 	"name":"Nopon Bazaar",
-	"access_rules":["BFFs"]
+	"access_rules":["@SEG/Blade-Barracks/BFFs"]
 		}
 	]
 	},
