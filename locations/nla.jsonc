@@ -955,7 +955,7 @@
 			},
 			{
 		"name":"Professor Bs Lab",
-		"access_rules":["{Mystery Man}"]
+		"access_rules":["@SEG/Industrial-District/Mystery Man"]
 			},
 			{
 		"name":"West Gate"

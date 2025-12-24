@@ -249,4 +249,11 @@
       "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
     }
   ]
-}]
+},
+{
+"name": "Commercial-District",
+  "children": [
+  
+  
+    ]}
+]
