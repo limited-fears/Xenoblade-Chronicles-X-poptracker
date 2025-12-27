@@ -5,7 +5,7 @@
         {
         "title": "World Map",
         "content": {
-        "type": "map",
+        "type": "tabbed",
         "tabs": [ 
           {
               "title": "Mira",
