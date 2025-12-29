@@ -80,7 +80,7 @@
   {
     "name": "The Lurker",
     "sections": [{ "ref": "SEG/Manon-Ship/The Lurker" }],
-    "map_locations": [{ "map": "MnShp", "x": 251, "y": 292, "size": 10 }]
+    "map_locations": [{ "map": "MnShp", "x": 216, "y": 295, "size": 10 }]
   },
   {
     "name": "Snipe Hunt",
