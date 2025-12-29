@@ -90,7 +90,7 @@
   {
     "name": "The Old Gods",
     "sections": [{ "ref": "SEG/Manon-Ship/The Old Gods" }],
-    "map_locations": [{ "map": "MnShp", "x": 302, "y": 397, "size": 10 }]
+    "map_locations": [{ "map": "MnShp", "x": 293, "y": 400, "size": 10 }]
   },
   {
     "name": "An Ancient Legend",
