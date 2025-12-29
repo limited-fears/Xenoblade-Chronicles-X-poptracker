@@ -258,7 +258,7 @@
     "name": "West Melville Street",
     "sections": [
       {
-        "ref": "SEG/Commercial/West Melville Street"
+        "ref": "LOC/Commercial/West Melville Street"
       }
     ],
     "map_locations": [
@@ -275,7 +275,7 @@
     "name": "Central Melville Street",
     "sections": [
       {
-        "ref": "SEG/Commercial/Central Melville Street"
+        "ref": "LOC/Commercial/Central Melville Street"
       }
     ],
     "map_locations": [
@@ -292,7 +292,7 @@
     "name": "East Melville Street",
     "sections": [
       {
-        "ref": "SEG/Commercial/East Melville Street"
+        "ref": "LOC/Commercial/East Melville Street"
       }
     ],
     "map_locations": [
@@ -309,7 +309,7 @@
     "name": "Barista Court",
     "sections": [
       {
-        "ref": "SEG/Commercial/Barista Court"
+        "ref": "LOC/Commercial/Barista Court"
       }
     ],
     "map_locations": [
@@ -326,7 +326,7 @@
     "name": "North Founders Street",
     "sections": [
       {
-        "ref": "SEG/Commercial/North Founders Street"
+        "ref": "LOC/Commercial/North Founders Street"
       }
     ],
     "map_locations": [
@@ -343,7 +343,7 @@
     "name": "Nopon Bazaar",
     "sections": [
       {
-        "ref": "SEG/Commercial/Nopon Bazaar"
+        "ref": "LOC/Commercial/Nopon Bazaar"
       }
     ],
     "map_locations": [

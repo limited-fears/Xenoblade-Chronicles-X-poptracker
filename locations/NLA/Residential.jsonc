@@ -398,7 +398,7 @@
     "name": "Water Purification Plant",
     "sections": [
       {
-        "ref": "SEG/Residental/Water Purification Plant"
+        "ref": "LOC/Residental/Water Purification Plant"
       }
     ],
     "map_locations": [
@@ -415,7 +415,7 @@
     "name": "Deliverance Park",
     "sections": [
       {
-        "ref": "SEG/Residental/Deliverance Park"
+        "ref": "LOC/Residental/Deliverance Park"
       }
     ],
     "map_locations": [
@@ -432,7 +432,7 @@
     "name": "Cathedral",
     "sections": [
       {
-        "ref": "SEG/Residental/Cathedral"
+        "ref": "LOC/Residental/Cathedral"
       }
     ],
     "map_locations": [
@@ -449,7 +449,7 @@
     "name": "Sports Complex",
     "sections": [
       {
-        "ref": "SEG/Residental/Sports Complex"
+        "ref": "LOC/Residental/Sports Complex"
       }
     ],
     "map_locations": [
@@ -466,7 +466,7 @@
     "name": "Ishmael Hills",
     "sections": [
       {
-        "ref": "SEG/Residental/Ishmael Hills"
+        "ref": "LOC/Residental/Ishmael Hills"
       }
     ],
     "map_locations": [

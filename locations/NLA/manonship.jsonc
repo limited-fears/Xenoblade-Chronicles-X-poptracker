@@ -127,7 +127,7 @@
     "name": "deck",
     "sections": [
       {
-        "ref": "SEG/Ma-non/deck"
+        "ref": "LOC/Ma-non/deck"
       }
     ],
     "map_locations": [
@@ -144,7 +144,7 @@
     "name": "StarBoard",
     "sections": [
       {
-        "ref": "SEG/Ma-non/StarBoard"
+        "ref": "LOC/Ma-non/StarBoard"
       }
     ],
     "map_locations": [
@@ -161,7 +161,7 @@
     "name": "PortSide",
     "sections": [
       {
-        "ref": "SEG/Ma-non/PortSide"
+        "ref": "LOC/Ma-non/PortSide"
       }
     ],
     "map_locations": [

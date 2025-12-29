@@ -640,7 +640,7 @@
     "name": "Division Drive",
     "sections": [
       {
-        "ref": "SEG/Admin/Division Drive"
+        "ref": "LOC/Admin/Division Drive"
       }
     ],
     "map_locations": [
@@ -657,7 +657,7 @@
     "name": "Armory Alley",
     "sections": [
       {
-        "ref": "SEG/Admin/Armory Alley"
+        "ref": "LOC/Admin/Armory Alley"
       }
     ],
     "map_locations": [
@@ -674,7 +674,7 @@
     "name": "Yardleys Hideaway",
     "sections": [
       {
-        "ref": "SEG/Admin/Yardleys Hideaway"
+        "ref": "LOC/Admin/Yardleys Hideaway"
       }
     ],
     "map_locations": [
@@ -691,7 +691,7 @@
     "name": "East Gate",
     "sections": [
       {
-        "ref": "SEG/Admin/East Gate"
+        "ref": "LOC/Admin/East Gate"
       }
     ],
     "map_locations": [
@@ -708,7 +708,7 @@
     "name": "BLADE Tower",
     "sections": [
       {
-        "ref": "SEG/Admin/BLADE Tower"
+        "ref": "LOC/Admin/BLADE Tower"
       }
     ],
     "map_locations": [
@@ -725,7 +725,7 @@
     "name": "BLADE Concourse",
     "sections": [
       {
-        "ref": "SEG/Admin/BLADE Concourse"
+        "ref": "LOC/Admin/BLADE Concourse"
       }
     ],
     "map_locations": [
@@ -742,7 +742,7 @@
     "name": "BLADE Barracks",
     "sections": [
       {
-        "ref": "SEG/Admin/BLADE Barracks"
+        "ref": "LOC/Admin/BLADE Barracks"
       }
     ],
     "map_locations": [
@@ -759,7 +759,7 @@
     "name": "Mimeosome Maintenance Center",
     "sections": [
       {
-        "ref": "SEG/Admin/Mimeosome Maintenance Center"
+        "ref": "LOC/Admin/Mimeosome Maintenance Center"
       }
     ],
     "map_locations": [
@@ -776,7 +776,7 @@
     "name": "Hangar",
     "sections": [
       {
-        "ref": "SEG/Admin/Hangar"
+        "ref": "LOC/Admin/Hangar"
       }
     ],
     "map_locations": [
@@ -793,7 +793,7 @@
     "name": "Restricted Hangar Entrance",
     "sections": [
       {
-        "ref": "SEG/Admin/Restricted Hangar Entrance"
+        "ref": "LOC/Admin/Restricted Hangar Entrance"
       }
     ],
     "map_locations": [
