@@ -251,9 +251,110 @@
   ]
 },
 {
-"name": "Commercial-District",
+"name": "LOC",
   "children": [
   
-  
-    ]}
+  {
+    "name": "West Melville Street",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/West Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Central Melville Street",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/Central Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "East Melville Street",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/East Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Barista Court",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/Barista Court"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "North Founders Street",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/North Founders Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Nopon Bazaar",
+    "sections": [
+      {
+        "ref": "SEG/Commercial-District/Nopon Bazaar"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 302,
+        "y": 161,
+        "size": 10
+      }
+    ]
+  }
+ ]
+}
 ]

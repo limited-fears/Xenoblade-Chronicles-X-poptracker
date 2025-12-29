@@ -389,4 +389,96 @@
 		]
 	}
 ]
+},
+{
+  "name":"LOC",
+  "children":[
+    [
+  {
+    "name": "Water Purification Plant",
+    "sections": [
+      {
+        "ref": "SEG/Residental/Water Purification Plant"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Deliverance Park",
+    "sections": [
+      {
+        "ref": "SEG/Residental/Deliverance Park"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Cathedral",
+    "sections": [
+      {
+        "ref": "SEG/Residental/Cathedral"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Sports Complex",
+    "sections": [
+      {
+        "ref": "SEG/Residental/Sports Complex"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Ishmael Hills",
+    "sections": [
+      {
+        "ref": "SEG/Residental/Ishmael Hills"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+        "x": 0,
+        "y": 0,
+        "size": 10
+      }
+    ]
+  }
+]
+
+  ]
 }]

@@ -1,7 +1,7 @@
 [{
 "name": "SEG",
 "children":[
-//industrial
+//industrial done
 {
 	"name":"Industrial-District",
 	"access_rules":["chap:1"],
@@ -643,6 +643,7 @@
 	]
 },
 
+
 {
 	"name":"Administrative-District",
 	"access_rules":["chap:1"],
@@ -672,154 +673,204 @@
 		"access_rules":["Lin:3"]
 	},
 	{
-		"name":"Myles to Go/Chp 2"
+		"name":"Myles to Go",
+		"access_rules":["Chap:2"]
 	},
 	{
-		"name":"The Probe-fessional/Chp 2"
+		"name":"The Probe-fessional",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"Doug/Chp 3"
+		"name":"Doug",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"Mamma Mia!/Chp 3"
+		"name":"Mamma Mia!",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"BLADE Level Basics/Chp 3"
+		"name":"BLADE Level Basics",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"Gwin/Chp 3"
+		"name":"Gwin",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"City Saviors/Chp 3"
+		"name":"City Saviors",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"Planetary Pioneer I/Chp 3"
+		"name":"Planetary Pioneer I",
+		"access_rules":["Chap:3"]
 	},
 	{
-		"name":"Irina/Chp 3"
+		"name":"Irina",
+		"access_rules":["Chap:3"]
 	},
    	{
-		"name":"L/Chp 4"
+		"name":"L",
+		"access_rules":["Chap:4"]
 	},
 	{
-		"name":"Lao/Chp 4"
+		"name":"Lao",
+		"access_rules":["Chap:4"]
 	},
 	{
-		"name":"Close Comrades/Chp 4"
+		"name":"Close Comrades",
+		"access_rules":["Chap:4"]
 	},
 	{
-		"name":"Prone Sweet Prone/Chp 5"
+		"name":"Prone Sweet Prone",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"The Handy Ma-non/Chp 5"
+		"name":"The Handy Ma-non",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"My Dream/Chp 5"
+		"name":"My Dream",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"Thats In-Credible!/Chp 5"
+		"name":"Thats In-Credible!",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"A False Hope/Hope 2/Chp 5"
+		"name":"A False Hope",
+		"access_rules":["Chap:5","Hope:2"]
 	},
 	{
-		"name":"Planetary Pioneer II/Chp 5"
+		"name":"Planetary Pioneer II",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"House of Cards/Chp 5"
+		"name":"House of Cards5",
+		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"Rescue at the Ensconced Citadel/Chp 6"
+		"name":"Rescue at the Ensconced Citadel",
+		"access_rules":["Chap:6"]
 	},
 	{
-		"name":"The Skell License/Chp 6"
+		"name":"The Skell License",
+		"access_rules":["Chap:6"]
 	},
 	{
-		"name":"Frontier Spirit/Chp 6"
+		"name":"Frontier Spirit",
+		"access_rules":["Chap:6"]
 	},
 	{
-		"name":"Close Encounters/Chp 6"
+		"name":"Close Encounters",
+		"access_rules":["Chap:6"]
 	},
 	{
-		"name":"Attack on Biahno Hills/Chp 7"
+		"name":"Attack on Biahno Hills",
+		"access_rules":["Chap:7"]
 	},
 	{
-		"name":"Spy Games/Chp 7"
+		"name":"Spy Games",
+		"access_rules":["Chap:7"]
 	},
     {
-		"name":"Soldier of the Harriers/Doug 3/Chp 7"
+		"name":"Soldier of the Harriers",
+		"access_rules":["Chap:3","Doug:3"]
 	},
 	{
-		"name":"Ovah and Out/Chp 7"
+		"name":"Ovah and Out",
+		"access_rules":["Chap:7"]
 	},
 	{
-		"name":"Manhunt/Chp 8"
+		"name":"Manhunt",
+		"access_rules":["Chap:8"]
 	},
 	{
-		"name":"Setting Forth/Chp 8"
+		"name":"Setting Forth",
+		"access_rules":["Chap:8"]
 	},
 	{
-		"name":"Planetary Pioneer IV/Chp 8"
+		"name":"Planetary Pioneer IV",
+		"access_rules":["Chap:8"]
 	},
 	{
-		"name":"Blitzkrieg/Phog 3 Frye 3/Chp 8"
+		"name":"Blitzkrieg",
+		"access_rules":["Chap:8","phog:3","Frye:3"]
 	},
 	{
-		"name":"Cavern Crushers/Chp 9"
+		"name":"Cavern Crushers",
+		"access_rules":["Chap:9"]
 	},
 	{
-		"name":"The Ultimate Price/Chp 10"
+		"name":"The Ultimate Price",
+		"access_rules":["Chap:10"]
 	},
 	{
-		"name":"Reporting for Duty/Nagi 3/Chp 10"
+		"name":"Reporting for Duty",
+		"access_rules":["Chap:10","Nagi:3"]
 	},
 	{
-		"name":"Ls Conundrum/L 2/Chp 10"
+		"name":"Ls Conundrum",
+		"access_rules":["Chap:10","L:2"]
 	},
 	{
-		"name":"Waste Not, Want Not/Chp 10"
+		"name":"Waste Not, Want Not",
+		"access_rules":["Chap:10"]
 	},
 	{
-		"name":"The Little Rich Girl/Murderess 2/Chp 10"
+		"name":"The Little Rich Girl",
+		"access_rules":["Chap:10","Murderess:2"]
 	},
 	{
-		"name":"Unknown Assailant/Chp 10"
+		"name":"Unknown Assailant",
+		"access_rules":["Chap:10"]
 	},
 	{
-		"name":"Slovitys Rampage/Chp 10"
+		"name":"Slovitys Rampage",
+		"access_rules":["Chap:10"]
 	},
 	{
-		"name":"The Duel II/Chp 11"
+		"name":"The Duel II",
+		"access_rules":["Chap:11"]
 	},
 	{
-		"name":"Brotherly Love/Phog 4 Frye 4/Chp 11"
+		"name":"Brotherly Love",
+		"access_rules":["Chap:11","Phog:4","Frye:4"]
 	},
 	{
-		"name":"Lend an Ear/Chp 11"
+		"name":"Lend an Ear",
+		"access_rules":["Chap:11"]
 	},
 	{
-		"name":"White Lifehold/Chp 11"
+		"name":"White Lifehold",
+		"access_rules":["Chap:11"]
 	},
 	{
-		"name":"The Duel III/Chp 11"
+		"name":"The Duel III1",
+		"access_rules":["Chap:11"]
 	},
 	{
-		"name":"Mia Is Missing!/Chp 11"
+		"name":"Mia Is Missing!",
+		"access_rules":["Chap:11"]
 	},
 	{
-		"name":"The Nopon Heir/L 4/Chp 12"
+		"name":"The Nopon Heir",
+		"access_rules":["Chap:12","L:4"]
 	},
 	{
-		"name":"Cooking Schooled/Chp 12"
+		"name":"Cooking Schooled",
+		"access_rules":["Chap:12"]
 	},
 	{
-		"name":"Mia Grows Up/Mia 4/Chp 12"
+		"name":"Mia Grows Up",
+		"access_rules":["Chap:12","Mia:4"]
 	},
 	{
-		"name":"Large Container/Mechanical 4"
+		"name":"Large Container",
+		"access_rules":["Mechanical:4"]
 	},
 	{
-		"name":"Trailer/Mechanical 2"
+		"name":"Trailer",
+		"access_rules":["Mechanical:2"]
 	},
 	{
 		"name":"Nagi"
@@ -831,13 +882,13 @@
 		"name":"The Root of All Evil"
 	},
 	{
-		"name":"Wolf/Aff Shift"
+		"name":"Wolf"
 	},
 	{
-		"name":"Nopopon/Aff Shift"
+		"name":"Nopopon"
 	},
 	{
-		"name":"Cedric/Aff Shift"
+		"name":"Cedric"
 	},
 	{
 		"name":"Dead Men Tell No Tales"
@@ -931,81 +982,100 @@
 		}
 	]
 },
+
+
 { 
 	"name":"Manon-Ship",
 	"access_rules":["chap:4"],
 	"sections":[
 {
-	"name":"L 2 H2H"
+	"name":"L 2 H2H",
+	"access_rules":["L:2"]
 },
 {
-	"name":"Elma 4 H2H"
+	"name":"Elma 4 H2H",
+	"access_rules":["Elma:4"]
 },
 {
-	"name":"Tree-mendous/Chp 5"
+	"name":"Tree-mendous",
+	"access_rules":["chap:5"]
 },
 {
-	"name":"A Grim Undertaking/Chp 6"
+	"name":"A Grim Undertaking",
+	"access_rules":["chap:6"]
 },
 {
-	"name":"The Membership/Chp 6"
+	"name":"The Membership",
+	"access_rules":["chap:6"]
 },
 {
-	"name":"Gorkwa Games/Chp 7"
+	"name":"Gorkwa Games",
+	"access_rules":["chap:7"]
 },
 {
-	"name":"Training Day/Chp 7"
+	"name":"Training Day",
+	"access_rules":["chap:7"]
 },
 {
-	"name":"Forbidden Love/Chp 8"
+	"name":"Forbidden Love",
+	"access_rules":["chap:8"]
 },		
 {
-	"name":"The Art of War/Chp 8"
+	"name":"The Art of War",
+	"access_rules":["chap:8"]
 },
 {
-	"name":"Here Come the Brides/Chp 9"
+	"name":"Here Come the Brides",
+	"access_rules":["chap:9"]
 },
 {
-	"name":"No-show Nenceleg/Chp 10"
+	"name":"No-show Nenceleg",
+	"access_rules":["chap:10"]
 },
 {
-	"name":"House Call/Chp 10"
+	"name":"House Call",
+	"access_rules":["chap:10"]
 },
 {
-	"name":"A New Life/Chp 11"
+	"name":"A New Life",
+	"access_rules":["chap:11"]
 },
 {
-	"name":"Slovitys Revenge/Chp 11"
+	"name":"Slovitys Revenge",
+	"access_rules":["chap:11"]
 },
 {
-	"name":"The Unbreakable Sword/Chp 12"
+	"name":"The Unbreakable Sword",
+	"access_rules":["chap:12"]
 },
 {
-	"name":"The Lurker/Chp 12"
+	"name":"The Lurker",
+	"access_rules":["chap:12"]
 },
 {
-	"name":"Snipe Hunt/Chp 12"
+	"name":"Snipe Hunt",
+	"access_rules":["chap:12"]
 },
 {
-	"name":"The Old Gods/Chp 12"
+	"name":"The Old Gods",
+	"access_rules":["chap:12"]
 },
 {
-	"name":"An Ancient Legend/Chp 12"
+	"name":"An Ancient Legend",
+	"access_rules":["chap:12"]
 },
 {
-	"name":"The Party Line/Chp 12"
+	"name":"The Party Line",
+	"access_rules":["chap:12"]
 },
 {
 	"name":"Mia"
 },
-
-	//missions
-
 {
 	"name":"Sunceleg Rises"
 },
 {
-	"name":"Zurranik/Aff Shift"
+	"name":"Zurranik"
 }
 	],
 	"map_locations": [
@@ -1023,7 +1093,7 @@
 	"name":"LOC",
 	"access_rules":["chap:1"],
 	"children":[{
-
+//industrial done
 		"name":"Industrial",
 		"access_rules":["chap:1"],
 		"sections":[
@@ -1052,8 +1122,25 @@
 	{
 		"name":"Residental",
 	"access_rules":["chap:1"],
-	"sections":[]
+	"sections":[
+	{
+		"name":"Water Purification Plant"
 	},
+		{
+		"name":"Deliverance Park"
+	},
+		{
+		"name":"Cathedral"
+	},
+		{
+		"name":"Sports Complex"
+	},
+		{
+		"name":"Ishmael Hills"
+	}
+	]
+	},
+
 	{
 		"name":"Commercial",
 	"access_rules":["chap:1"],
@@ -1082,12 +1169,44 @@
 	{
 		"name":"Admin",
 	"access_rules":["chap:1"],
-	"sections":[]
+	"sections":[
+	{
+		"name":"Division Drive"
+	},	
+	{
+		"name":"Armory Alley"
+	},
+		{
+		"name":"Yardleys Hideaway"
+	},
+		{
+		"name":"East Gate"
+	},
+		{
+		"name":"BLADE Tower"
+	},
+		{
+		"name":"BLADE Concourse"
+	},
+		{
+		"name":"BLADE Barracks"
+	},
+		{
+		"name":"Mimeosome Maintenance Center"
+	},
+		{
+		"name":"Hangar"
+	},
+		{
+		"name":"Restricted Hangar Entrance"
+	}
+	]
 	},
 	{
 		"name":"Ma-non",
-	"access_rules":["chap:1"],
-	"sections":[{
+	"access_rules":["chap:3"],
+	"sections":[
+		{
 		"name":"deck"
 	},
 	{
