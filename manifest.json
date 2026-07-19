@@ -1,10 +1,10 @@
 {
   "name": "Xenoblade X",
   "game_name": "Xenoblade Chronicles X",
-  "package_version": "0.1.0.0",
+  "package_version": "",
   "package_uid":"XenobladeX",
   "platform": "WiiU",
-  "author": "Limit_Fears",
+  "author": "Limited_Fears",
   "variants": {
     "standard": {
       "display_name": "Map Tracker",
