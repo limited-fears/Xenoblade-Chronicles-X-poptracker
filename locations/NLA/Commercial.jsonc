@@ -251,7 +251,7 @@
   ]
 },
 {
-"name": "LOC",
+  "name": "LOC",
   "children": [
   
   {
@@ -263,9 +263,7 @@
     ],
     "map_locations": [
       {
-        "map": "Commercial",
-"x": 87,
-"y": 257,
+        "map": "Commercial","x": 87,"y": 257,
         "size": 10
       }
     ]

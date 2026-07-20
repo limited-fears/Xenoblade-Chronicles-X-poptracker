@@ -446,7 +446,7 @@
 },
 
 { 
-	"name":"Residental-District",
+	"name":"Residential-District",
 	"access_rules":["chap:1"],
 	"sections":[
 	{
@@ -1120,7 +1120,7 @@
 	},
 
 	{
-		"name":"Residental",
+		"name":"Residential",
 	"access_rules":["chap:1"],
 	"sections":[
 	{
