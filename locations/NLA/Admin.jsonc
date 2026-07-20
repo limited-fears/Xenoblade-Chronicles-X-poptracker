@@ -348,7 +348,7 @@
       { "ref": "SEG/Administrative-District/Setting Forth" }
     ],
     "map_locations": [
-      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+      { "map": "Admin", "x": 306, "y": 507, "size": 10 }
     ]
   },
 
