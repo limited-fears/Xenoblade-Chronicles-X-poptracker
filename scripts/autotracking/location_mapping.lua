@@ -566,8 +566,6 @@ LOCATION_MAPPING = {
 		[4101323] = {{"@EBK/Garnet Saltat/Primordia/Fallshorn Isle"}},
 		[4101324] = {{"@EBK/Zdenka, the Raucous/Primordia/Fallshorn Isle"}},
 		[4101326] = {{"@EBK/Ruby Saltat/Primordia/Fallshorn Isle"}},
-
-,
 		[4101354] = {{"@EBK/Stone Potamus/Primordia/Starfall Basin"}},
 		[4101355] = {{"@EBK/Rock Potamus/Primordia/Biahno River"}},
 		[4101358] = {{"@EBK/Mesgen, the Fairweathered/Primordia/Sayram Lake"}},
@@ -1631,9 +1629,6 @@ LOCATION_MAPPING = {
 			[4101846] = {{"@SEG/Industrial-District/Data Probe Evolution"}},
 			[4101848] = {{"@SEG/Industrial-District/Professorial"}},
 
-
-
-		
 		--Field skills
 			--Archeological
 			[4101825] = {{"@SEG/Industrial-District/Alien Wreckage"}},
@@ -2192,7 +2187,7 @@ LOCATION_MAPPING = {
 
 		--Chp 6
 			[4102217] = {{"@SEG/Oblivia/Mighty Mia/Leaning Ring/Chp 6"}},
-
+	--feild skills
 		--Archeological
 			[4102189] = {{"@SEG/Oblivia/Alien Wreckage/Mesa Fortress/Archeological 2"}},
 			[4102252] = {{"@SEG/Oblivia/Alien Container/Jair Fortress/Archeological 4"}},
@@ -2227,23 +2222,23 @@ LOCATION_MAPPING = {
 			[4102247] = {{"@SEG/Oblivia/Skell Wreckage/Washington Isle/Mechanical 4"}},
 			[4102249] = {{"@SEG/Oblivia/White Whale Debris/Sea Whisper Valley/Mechanical 3"}},
 
-		--missions
-			[4102183] = {{"@SEG/Oblivia/Sunceleg Rises/Stoyanov Trail"}},
-			[4102194] = {{"@SEG/Oblivia/A Dish Served Cold/Yawning Giant"}},
-			[4102196] = {{"@SEG/Oblivia/Prone Sweet Prone/Scabland Fortress"}},
-			[4102201] = {{"@SEG/Oblivia/Foggy Dilemma/Aaroy Plain"}},
-			[4102204] = {{"@SEG/Oblivia/Slovitys Rampage/Milligan Supply Base"}},
-			[4102209] = {{"@SEG/Oblivia/A Friend in Need/Rooney Cavern"}},
-			[4102219] = {{"@SEG/Oblivia/The Duel I/Ruins on the Sandbank"}},
-			[4102222] = {{"@SEG/Oblivia/A Grim Undertaking/Barbarich Desert"}},
-			[4102224] = {{"@SEG/Oblivia/The Little Rich Girl/Lake Basel"}},
-			[4102226] = {{"@SEG/Oblivia/A Challenger Approaches/Wrothian Stronghold"}},
-			[4102228] = {{"@SEG/Oblivia/Then and Now/Keegan Ridge"}},
-			[4102231] = {{"@SEG/Oblivia/A Great Divide/South Coast"}},
-			[4102235] = {{"@SEG/Oblivia/Bread and a Circus/Beehive Rock"}},
-			[4102238] = {{"@SEG/Oblivia/Shotgun Diplomacy/Balance Rock"}},
-			[4102241] = {{"@SEG/Oblivia/Dorian Caravan/Lake Basel"}},
-			[4102253] = {{"@SEG/Oblivia/Spy Games/Jair Fortress"}},
+	--missions
+		[4102183] = {{"@SEG/Oblivia/Sunceleg Rises/Stoyanov Trail"}},
+		[4102194] = {{"@SEG/Oblivia/A Dish Served Cold/Yawning Giant"}},
+		[4102196] = {{"@SEG/Oblivia/Prone Sweet Prone/Scabland Fortress"}},
+		[4102201] = {{"@SEG/Oblivia/Foggy Dilemma/Aaroy Plain"}},
+		[4102204] = {{"@SEG/Oblivia/Slovitys Rampage/Milligan Supply Base"}},
+		[4102209] = {{"@SEG/Oblivia/A Friend in Need/Rooney Cavern"}},
+		[4102219] = {{"@SEG/Oblivia/The Duel I/Ruins on the Sandbank"}},
+		[4102222] = {{"@SEG/Oblivia/A Grim Undertaking/Barbarich Desert"}},
+		[4102224] = {{"@SEG/Oblivia/The Little Rich Girl/Lake Basel"}},
+		[4102226] = {{"@SEG/Oblivia/A Challenger Approaches/Wrothian Stronghold"}},
+		[4102228] = {{"@SEG/Oblivia/Then and Now/Keegan Ridge"}},
+		[4102231] = {{"@SEG/Oblivia/A Great Divide/South Coast"}},
+		[4102235] = {{"@SEG/Oblivia/Bread and a Circus/Beehive Rock"}},
+		[4102238] = {{"@SEG/Oblivia/Shotgun Diplomacy/Balance Rock"}},
+		[4102241] = {{"@SEG/Oblivia/Dorian Caravan/Lake Basel"}},
+		[4102253] = {{"@SEG/Oblivia/Spy Games/Jair Fortress"}},
 
 	--cauldros
 		--Tyrants
