@@ -1,30 +1,183 @@
-[{
+[
+  {
     "name": "Manon Ship",
     "children": [
+  {
+    "name": "L 2 H2H",
+    "sections": [{ "ref": "SEG/Manon-Ship/L 2 H2H" }],
+    "map_locations": [{ "map": "MnShp", "x": 189, "y": 277, "size": 10 }]
+  },
+  {
+    "name": "Elma 4 H2H",
+    "sections": [{ "ref": "SEG/Manon-Ship/Elma 4 H2H" }],
+    "map_locations": [{ "map": "MnShp", "x": 302, "y": 352, "size": 10 }]
+  },
+  {
+    "name": "Tree-mendous",
+    "sections": [{ "ref": "SEG/Manon-Ship/Tree-mendous" }],
+    "map_locations": [{ "map": "MnShp", "x": 270, "y": 406, "size": 10 }]
+  },
+  {
+    "name": "A Grim Undertaking",
+    "sections": [{ "ref": "SEG/Manon-Ship/A Grim Undertaking" }],
+    "map_locations": [{ "map": "MnShp", "x": 193, "y": 196, "size": 10 }]
+  },
+  {
+    "name": "The Membership",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Membership" }],
+    "map_locations": [{ "map": "MnShp", "x": 274, "y": 370, "size": 10 }]
+  },
+  {
+    "name": "Gorkwa Games",
+    "sections": [{ "ref": "SEG/Manon-Ship/Gorkwa Games" }],
+    "map_locations": [{ "map": "MnShp", "x": 135, "y": 195, "size": 10 }]
+  },
+  {
+    "name": "Training Day",
+    "sections": [{ "ref": "SEG/Manon-Ship/Training Day" }],
+    "map_locations": [{ "map": "MnShp", "x": 330, "y": 330, "size": 10 }]
+  },
+  {
+    "name": "Forbidden Love",
+    "sections": [{ "ref": "SEG/Manon-Ship/Forbidden Love" }],
+    "map_locations": [{ "map": "MnShp", "x": 104, "y": 219, "size": 10 }]
+  },
+  {
+    "name": "The Art of War",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Art of War" }],
+    "map_locations": [{ "map": "MnShp", "x": 333, "y": 359, "size": 10 }]
+  },
+  {
+    "name": "Here Come the Brides",
+    "sections": [{ "ref": "SEG/Manon-Ship/Here Come the Brides" }],
+    "map_locations": [{ "map": "MnShp", "x": 174, "y": 221, "size": 10 }]
+  },
+  {
+    "name": "No-show Nenceleg",
+    "sections": [{ "ref": "SEG/Manon-Ship/No-show Nenceleg" }],
+    "map_locations": [{ "map": "MnShp", "x": 101, "y": 263, "size": 10 }]
+  },
+  {
+    "name": "House Call",
+    "sections": [{ "ref": "SEG/Manon-Ship/House Call" }],
+    "map_locations": [{ "map": "MnShp", "x": 138, "y": 246, "size": 10 }]
+  },
+  {
+    "name": "A New Life",
+    "sections": [{ "ref": "SEG/Manon-Ship/A New Life" }],
+    "map_locations": [{ "map": "MnShp", "x": 161, "y": 171, "size": 10 }]
+  },
+  {
+    "name": "Slovitys Revenge",
+    "sections": [{ "ref": "SEG/Manon-Ship/Slovitys Revenge" }],
+    "map_locations": [{ "map": "MnShp", "x": 327, "y": 408, "size": 10 }]
+  },
+  {
+    "name": "The Unbreakable Sword",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Unbreakable Sword" }],
+    "map_locations": [{ "map": "MnShp", "x": 160, "y": 256, "size": 10 }]
+  },
+  {
+    "name": "The Lurker",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Lurker" }],
+    "map_locations": [{ "map": "MnShp", "x": 216, "y": 295, "size": 10 }]
+  },
+  {
+    "name": "Snipe Hunt",
+    "sections": [{ "ref": "SEG/Manon-Ship/Snipe Hunt" }],
+    "map_locations": [{ "map": "MnShp", "x": 255, "y": 271, "size": 10 }]
+  },
+  {
+    "name": "The Old Gods",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Old Gods" }],
+    "map_locations": [{ "map": "MnShp", "x": 293, "y": 400, "size": 10 }]
+  },
+  {
+    "name": "An Ancient Legend",
+    "sections": [{ "ref": "SEG/Manon-Ship/An Ancient Legend" }],
+    "map_locations": [{ "map": "MnShp", "x": 301, "y": 423, "size": 10 }]
+  },
+  {
+    "name": "The Party Line",
+    "sections": [{ "ref": "SEG/Manon-Ship/The Party Line" }],
+    "map_locations": [{ "map": "MnShp", "x": 366, "y": 349, "size": 10 }]
+  },
+  {
+    "name": "Mia",
+    "sections": [{ "ref": "SEG/Manon-Ship/Mia" }],
+    "map_locations": [{ "map": "MnShp", "x": 244, "y": 311, "size": 10 }]
+  },
+  {
+    "name": "Sunceleg Rises",
+    "sections": [{ "ref": "SEG/Manon-Ship/Sunceleg Rises" }],
+    "map_locations": [{ "map": "MnShp", "x": 281, "y": 249, "size": 10 }]
+  },
+  {
+    "name": "Zurranik",
+    "sections": [{ "ref": "SEG/Manon-Ship/Zurranik" }],
+    "map_locations": [{ "map": "MnShp", "x": 271, "y": 328, "size": 10 }]
+  
+}
+]
+  },
+  {
+        "name":"LOC",
+        "children":[
+  {
+    "name": "deck",
+    "sections": [
       {
-        "name": "Ship check",
-        "access_rules": [
-        ],
-        "sections": [
-          {
-            "name": "Ship Sec1",
-            "item_count": 1
-          },
-          {
-            "name": "Ship Sec2",
-            "item_count": 2
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "MnShp",
-            "x": 10,
-            "y": 10,
-            "size": 10
-          }
-        ]
+        "ref": "LOC/Ma-non/deck"
       }
-      
+    ],
+    "map_locations": [
+      {
+        "map": "MnShp",
+        "x": 249,
+        "y": 285,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "StarBoard",
+    "sections": [
+      {
+        "ref": "LOC/Ma-non/StarBoard"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "MnShp",
+        "x": 316,
+        "y": 377,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "PortSide",
+    "sections": [
+      {
+        "ref": "LOC/Ma-non/PortSide"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "MnShp",
+        "x": 144,
+        "y": 221,
+        "size": 10
+      }
     ]
   }
 ]
+}
+]
+      
+  
+      
+    
+  

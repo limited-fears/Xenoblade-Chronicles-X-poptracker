@@ -1,0 +1,767 @@
+[{
+    "name":"Administrative-District",
+    "children":[
+
+    {
+    "name": "Gwin 1 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Gwin 1 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Irina 3 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Irina 3 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Doug 5 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Doug 5 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Nagi 1 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Nagi 1 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Frye 2 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Frye 2 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Lin 3 H2H",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Lin 3 H2H" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Myles to Go",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Myles to Go" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Probe-fessional",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Probe-fessional" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Doug",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Doug" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Mamma Mia!",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Mamma Mia!" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "BLADE Level Basics",
+    "sections": [
+      { "ref": "SEG/Administrative-District/BLADE Level Basics" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Gwin",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Gwin" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "City Saviors",
+    "sections": [
+      { "ref": "SEG/Administrative-District/City Saviors" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Planetary Pioneer I",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Planetary Pioneer I" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Irina",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Irina" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "L",
+    "sections": [
+      { "ref": "SEG/Administrative-District/L" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Lao",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Lao" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Close Comrades",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Close Comrades" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Prone Sweet Prone",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Prone Sweet Prone" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Handy Ma-non",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Handy Ma-non" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "My Dream",
+    "sections": [
+      { "ref": "SEG/Administrative-District/My Dream" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Thats In-Credible!",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Thats In-Credible!" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "A False Hope",
+    "sections": [
+      { "ref": "SEG/Administrative-District/A False Hope" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Planetary Pioneer II",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Planetary Pioneer II" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "House of Cards5",
+    "sections": [
+      { "ref": "SEG/Administrative-District/House of Cards5" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Rescue at the Ensconced Citadel",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Rescue at the Ensconced Citadel" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Skell License",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Skell License" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Frontier Spirit",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Frontier Spirit" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Close Encounters",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Close Encounters" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Attack on Biahno Hills",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Attack on Biahno Hills" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Spy Games",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Spy Games" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Soldier of the Harriers",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Soldier of the Harriers" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Ovah and Out",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Ovah and Out" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Manhunt",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Manhunt" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Setting Forth",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Setting Forth" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Planetary Pioneer IV",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Planetary Pioneer IV" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Blitzkrieg",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Blitzkrieg" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Cavern Crushers",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Cavern Crushers" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Ultimate Price",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Ultimate Price" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Reporting for Duty",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Reporting for Duty" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Ls Conundrum",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Ls Conundrum" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Waste Not, Want Not",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Waste Not, Want Not" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Little Rich Girl",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Little Rich Girl" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Unknown Assailant",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Unknown Assailant" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Slovitys Rampage",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Slovitys Rampage" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Duel II",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Duel II" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Brotherly Love",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Brotherly Love" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Lend an Ear",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Lend an Ear" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "White Lifehold",
+    "sections": [
+      { "ref": "SEG/Administrative-District/White Lifehold" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Duel III",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Duel III" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 348, "y": 608, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Mia Is Missing!",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Mia Is Missing!" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Nopon Heir",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Nopon Heir" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Cooking Schooled",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Cooking Schooled" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Mia Grows Up",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Mia Grows Up" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Large Container",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Large Container" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 158,"y": 485, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Trailer",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Trailer" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 202,"y": 317, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Nagi",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Nagi" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Murderess",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Murderess" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "The Root of All Evil",
+    "sections": [
+      { "ref": "SEG/Administrative-District/The Root of All Evil" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Wolf",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Wolf" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Affinity Shift: Nopopon",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Nopopon" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 250,"y": 668, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Cedric",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Cedric" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  },
+
+  {
+    "name": "Dead Men Tell No Tales",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Dead Men Tell No Tales" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+    ]
+  }
+]
+},
+{
+  "name":"LOC",
+    "children":[
+  {
+    "name": "Division Drive",
+    "sections": [{"ref": "LOC/Admin/Division Drive"}],
+    "map_locations": [
+      {"map": "Admin","x": 394,"y": 167,"size": 10}]
+  },
+
+  {
+    "name": "Armory Alley",
+    "sections": [{"ref": "LOC/Admin/Armory Alley"}],
+    "map_locations": [
+      {"map": "Admin","x": 294,"y": 328,"size": 10}]
+  },
+
+  {
+    "name": "Yardleys Hideaway",
+    "sections": [{"ref": "LOC/Admin/Yardleys Hideaway"}],
+    "map_locations": [{"map": "Admin","x": 365,"y": 303,"size": 10}]
+  },
+
+  {
+    "name": "East Gate",
+    "sections": [{"ref": "LOC/Admin/East Gate"}],
+    "map_locations": [{"map": "Admin","x": 434,"y": 323,"size": 10}]
+  },
+
+  {
+    "name": "BLADE Tower",
+    "sections": [
+      {
+        "ref": "LOC/Admin/BLADE Tower"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin","x": 198,"y": 426,"size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "BLADE Concourse",
+    "sections": [
+      {
+        "ref": "LOC/Admin/BLADE Concourse"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin",
+"x": 388,
+"y": 420,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "BLADE Barracks",
+    "sections": [
+      {
+        "ref": "LOC/Admin/BLADE Barracks"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin",
+"x": 426,
+"y": 380,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Mimeosome Maintenance Center",
+    "sections": [
+      {
+        "ref": "LOC/Admin/Mimeosome Maintenance Center"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin",
+"x": 403,
+"y": 541,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Hangar",
+    "sections": [
+      {
+        "ref": "LOC/Admin/Hangar"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin",
+"x": 296,
+"y": 196,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Restricted Hangar Entrance",
+    "sections": [
+      {
+        "ref": "LOC/Admin/Restricted Hangar Entrance"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Admin",
+"x": 306,
+"y": 305,
+        "size": 10
+      }
+    ]
+  }
+]
+
+}
+
+]

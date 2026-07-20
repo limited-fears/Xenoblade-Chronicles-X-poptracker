@@ -1,3 +1,360 @@
 [{
-					
-}]
+  "name": "Commercial-District",
+  "children": [
+     {
+      "name": "Gwin 5 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Gwin 5 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Lin 2 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Lin 2 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Mia 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Mia 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Celica 3 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Celica 3 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Mia 2 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Mia 2 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Phog 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Phog 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Doug 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Doug 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Lin 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Lin 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Irina 5 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Irina 5 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "L 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/L 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Nagi 3 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Nagi 3 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Murderess 2 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Murderess 2 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Frye 4 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Frye 4 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Hope 5 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Hope 5 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "L 1 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/L 1 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Hope 2 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Hope 2 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Elma 3 H2H",
+      "sections": [ { "ref": "SEG/Commercial-District/Elma 3 H2H" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+
+    // story missions
+    {
+      "name": "A Heros Ride",
+      "sections": [ { "ref": "SEG/Commercial-District/A Heros Ride" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Better Latte Than Never",
+      "sections": [ { "ref": "SEG/Commercial-District/Better Latte Than Never" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Renewed Will",
+      "sections": [ { "ref": "SEG/Commercial-District/Renewed Will" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "The Ties That Bind",
+      "sections": [ { "ref": "SEG/Commercial-District/The Ties That Bind" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Nine Lives",
+      "sections": [ { "ref": "SEG/Commercial-District/Nine Lives" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "No Ma-non Need Apply",
+      "sections": [ { "ref": "SEG/Commercial-District/No Ma-non Need Apply" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "The Matchmaker",
+      "sections": [ { "ref": "SEG/Commercial-District/The Matchmaker" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "The Fashionista",
+      "sections": [ { "ref": "SEG/Commercial-District/The Fashionista" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Going Viral",
+      "sections": [ { "ref": "SEG/Commercial-District/Going Viral" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Alien Nation",
+      "sections": [ { "ref": "SEG/Commercial-District/Alien Nation" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "A Dubious Operation",
+      "sections": [ { "ref": "SEG/Commercial-District/A Dubious Operation" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Emotion Commotion",
+      "sections": [ { "ref": "SEG/Commercial-District/Emotion Commotion" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Trade Agreement",
+      "sections": [ { "ref": "SEG/Commercial-District/Trade Agreement" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Sparking a Smile",
+      "sections": [ { "ref": "SEG/Commercial-District/Sparking a Smile" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Planetary Pioneer III",
+      "sections": [ { "ref": "SEG/Commercial-District/Planetary Pioneer III" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Stop, Thief!",
+      "sections": [ { "ref": "SEG/Commercial-District/Stop, Thief!" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Murder Most Foul",
+      "sections": [ { "ref": "SEG/Commercial-District/Murder Most Foul" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "My Angel, My Lana",
+      "sections": [ { "ref": "SEG/Commercial-District/My Angel, My Lana" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Wrothian Innovation",
+      "sections": [ { "ref": "SEG/Commercial-District/Wrothian Innovation" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Definian Downfall",
+      "sections": [ { "ref": "SEG/Commercial-District/Definian Downfall" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Unsatisfied Customer",
+      "sections": [ { "ref": "SEG/Commercial-District/Unsatisfied Customer" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "The Sword of Legendaryness",
+      "sections": [ { "ref": "SEG/Commercial-District/The Sword of Legendaryness" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "A Dish Served Cold",
+      "sections": [ { "ref": "SEG/Commercial-District/A Dish Served Cold" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Serial Thriller",
+      "sections": [ { "ref": "SEG/Commercial-District/Serial Thriller" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Container",
+      "sections": [ { "ref": "SEG/Commercial-District/Container" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Alien Wreckage",
+      "sections": [ { "ref": "SEG/Commercial-District/Alien Wreckage" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Alien Wreckage",
+      "sections": [ { "ref": "SEG/Commercial-District/Alien Wreckage" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Beats/Aff Shift",
+      "sections": [ { "ref": "SEG/Commercial-District/Beats/Aff Shift" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Boze",
+      "sections": [ { "ref": "SEG/Commercial-District/Boze" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Quiquat/Aff Shift",
+      "sections": [ { "ref": "SEG/Commercial-District/Quiquat/Aff Shift" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Veverta/Aff Shift",
+      "sections": [ { "ref": "SEG/Commercial-District/Veverta/Aff Shift" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    },
+    {
+      "name": "Yelv",
+      "sections": [ { "ref": "SEG/Commercial-District/Yelv" } ],
+      "map_locations": [ { "map": "Commercial","x":0,"y":0,"size":10 } ]
+    }
+  ]
+},
+{
+"name": "LOC",
+  "children": [
+  
+  {
+    "name": "West Melville Street",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/West Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+"x": 87,
+"y": 257,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Central Melville Street",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/Central Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+"x": 272,
+"y": 252,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "East Melville Street",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/East Melville Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+"x": 435,
+"y": 256,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Barista Court",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/Barista Court"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+"x": 216,
+"y": 186,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "North Founders Street",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/North Founders Street"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+"x": 268,
+"y": 385,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Nopon Bazaar",
+    "sections": [
+      {
+        "ref": "LOC/Commercial/Nopon Bazaar"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Commercial",
+        "x": 302,
+        "y": 161,
+        "size": 10
+      }
+    ]
+  }
+ ]
+}
+]

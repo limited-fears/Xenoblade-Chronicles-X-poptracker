@@ -1,26 +1,483 @@
 [{
-		"name": "Cauldros",
-		"children":[
-			{
-				"name": "CAU Check",
-				"access_rules": [
-        ],
-				"sections":[
-				    {
-                    "name": "Cau Sec1",
-                    "item_count": 1
-                    }
-                ],
-				"map_locations": [
-					{				
-						"map": "Cau",
-						"x": 24,
-						"y": 24,
-						"size": 10
-					}
-				]
-			}
+  "name": "Residental-District",
+  "children": [
+    {
+      "name": "Phog 1 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Phog 1 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Lin 5 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Lin 5 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Phog 3 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Phog 3 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Gwin 2 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Gwin 2 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "L 5 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/L 5 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Celica 2 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Celica 2 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Doug 3 H2Htime",
+      "sections": [
+        { "ref": "SEG/Residental-District/Doug 3 H2Htime" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Gwin 3 H2H/Water Puri Plant",
+      "sections": [
+        { "ref": "SEG/Residental-District/Gwin 3 H2H/Water Puri Plant" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Frye 3 H2H/Water Purification Plant",
+      "sections": [
+        { "ref": "SEG/Residental-District/Frye 3 H2H/Water Purification Plant" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Gwin 4 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Gwin 4 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Mia 5 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Mia 5 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Hope 4 H2H",
+      "sections": [
+        { "ref": "SEG/Residental-District/Hope 4 H2H" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Phog 5 H2H/Water Puri Plant",
+      "sections": [
+        { "ref": "SEG/Residental-District/Phog 5 H2H/Water Puri Plant" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Murderess 1 H2H/Cathedral",
+      "sections": [
+        { "ref": "SEG/Residental-District/Murderess 1 H2H/Cathedral" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Murderess 4 H2H/Cathedral",
+      "sections": [
+        { "ref": "SEG/Residental-District/Murderess 4 H2H/Cathedral" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Doug 1 H2H/Ishmael Hills",
+      "sections": [
+        { "ref": "SEG/Residental-District/Doug 1 H2H/Ishmael Hills" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Elma 2 H2H/Water Puri Plant",
+      "sections": [
+        { "ref": "SEG/Residental-District/Elma 2 H2H/Water Puri Plant" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Mia 1 H2H/Cathedral",
+      "sections": [
+        { "ref": "SEG/Residental-District/Mia 1 H2H/Cathedral" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Phog 2 H2H/Ishmael Hills",
+      "sections": [
+        { "ref": "SEG/Residental-District/Phog 2 H2H/Ishmael Hills" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Irina 2 H2H/Cathedral",
+      "sections": [
+        { "ref": "SEG/Residental-District/Irina 2 H2H/Cathedral" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "L 3 H2H/Cathedral",
+      "sections": [
+        { "ref": "SEG/Residental-District/L 3 H2H/Cathedral" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Murderess 5 H2H/Ishmael Hills",
+      "sections": [
+        { "ref": "SEG/Residental-District/Murderess 5 H2H/Ishmael Hills" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Nagi 5 H2H/Ishmael Hills",
+      "sections": [
+        { "ref": "SEG/Residental-District/Nagi 5 H2H/Ishmael Hills" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Hope 1 H2H/Ishmael Hills",
+      "sections": [
+        { "ref": "SEG/Residental-District/Hope 1 H2H/Ishmael Hills" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Hope Springs Eternal/Cathedral/Chp 3",
+      "sections": [
+        { "ref": "SEG/Residental-District/Hope Springs Eternal/Cathedral/Chp 3" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "The Celeste Three/Chp 4",
+      "sections": [
+        { "ref": "SEG/Residental-District/The Celeste Three/Chp 4" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Foggy Dilemma/Water Puri Plant/Chp 4",
+      "sections": [
+        { "ref": "SEG/Residental-District/Foggy Dilemma/Water Puri Plant/Chp 4" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Water Woes/Water Puri Plant/Chp 5",
+      "sections": [
+        { "ref": "SEG/Residental-District/Water Woes/Water Puri Plant/Chp 5" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Lakeside Getaway/Water Puri Plant/Chp 6",
+      "sections": [
+        { "ref": "SEG/Residental-District/Lakeside Getaway/Water Puri Plant/Chp 6" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "The Miracle Maker/Cathedral/Chp 6",
+      "sections": [
+        { "ref": "SEG/Residental-District/The Miracle Maker/Cathedral/Chp 6" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Circle of Life/Chp 7",
+      "sections": [
+        { "ref": "SEG/Residental-District/Circle of Life/Chp 7" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "A Great Divide/Ishmael Hills/Phog 2/Chp 7",
+      "sections": [
+        { "ref": "SEG/Residental-District/A Great Divide/Ishmael Hills/Phog 2/Chp 7" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "The Journey Begins/Cathedral/Chp 7",
+      "sections": [
+        { "ref": "SEG/Residental-District/The Journey Begins/Cathedral/Chp 7" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Shotgun Diplomacy/Cathedral/Chp 8",
+      "sections": [
+        { "ref": "SEG/Residental-District/Shotgun Diplomacy/Cathedral/Chp 8" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Rites of Ruin/Cathedral/Chp 8",
+      "sections": [
+        { "ref": "SEG/Residental-District/Rites of Ruin/Cathedral/Chp 8" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Herbivores, Unite!/Chp 9",
+      "sections": [
+        { "ref": "SEG/Residental-District/Herbivores, Unite!/Chp 9" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "The Line of Fire/Chp 9",
+      "sections": [
+        { "ref": "SEG/Residental-District/The Line of Fire/Chp 9" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "A Present for Hope/Hope 4/Chp 10",
+      "sections": [
+        { "ref": "SEG/Residental-District/A Present for Hope/Hope 4/Chp 10" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Bread and a Circus/Ishmael Hills/Chp 10",
+      "sections": [
+        { "ref": "SEG/Residental-District/Bread and a Circus/Ishmael Hills/Chp 10" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Alexs Last Stand/Ishmael Hills/Chp 10",
+      "sections": [
+        { "ref": "SEG/Residental-District/Alexs Last Stand/Ishmael Hills/Chp 10" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "The Bug Whisperer/Ishmael Hills/Chp 10",
+      "sections": [
+        { "ref": "SEG/Residental-District/The Bug Whisperer/Ishmael Hills/Chp 10" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "Planetary Pioneer V/Chp 11",
+      "sections": [
+        { "ref": "SEG/Residental-District/Planetary Pioneer V/Chp 11" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size": 10 }
+      ]
+    },
+    {
+      "name": "New Frontier/Cathedral/Chp 12",
+      "sections": [
+        { "ref": "SEG/Residental-District/New Frontier/Cathedral/Chp 12" }
+      ],
+      "map_locations": [
+        { "map": "Residental", "x": 0, "y": 0, "size":10}
 		]
-						
 	}
-	]
+]
+},
+{
+  "name":"LOC",
+  "children":[
+    
+  {
+    "name": "Water Purification Plant",
+    "sections": [
+      {
+        "ref": "LOC/Residental/Water Purification Plant"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+"x": 293,
+"y": 90,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Deliverance Park",
+    "sections": [
+      {
+        "ref": "LOC/Residental/Deliverance Park"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+"x": 190,
+"y": 216,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Cathedral",
+    "sections": [
+      {
+        "ref": "LOC/Residental/Cathedral"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+"x": 430,
+"y": 203,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Sports Complex",
+    "sections": [
+      {
+        "ref": "LOC/Residental/Sports Complex"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+"x": 192,
+"y": 452,
+        "size": 10
+      }
+    ]
+  },
+
+  {
+    "name": "Ishmael Hills",
+    "sections": [
+      {
+        "ref": "LOC/Residental/Ishmael Hills"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Residental",
+"x": 359,
+"y": 384,
+        "size": 10
+      }
+    ]
+  }
+]
+}
+]
