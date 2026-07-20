@@ -264,8 +264,8 @@
     "map_locations": [
       {
         "map": "Commercial",
-        "x": 0,
-        "y": 0,
+"x": 87,
+"y": 257,
         "size": 10
       }
     ]
@@ -281,8 +281,8 @@
     "map_locations": [
       {
         "map": "Commercial",
-        "x": 0,
-        "y": 0,
+"x": 272,
+"y": 252,
         "size": 10
       }
     ]
@@ -298,8 +298,8 @@
     "map_locations": [
       {
         "map": "Commercial",
-        "x": 0,
-        "y": 0,
+"x": 435,
+"y": 256,
         "size": 10
       }
     ]
@@ -315,8 +315,8 @@
     "map_locations": [
       {
         "map": "Commercial",
-        "x": 0,
-        "y": 0,
+"x": 216,
+"y": 186,
         "size": 10
       }
     ]
@@ -332,8 +332,8 @@
     "map_locations": [
       {
         "map": "Commercial",
-        "x": 0,
-        "y": 0,
+"x": 268,
+"y": 385,
         "size": 10
       }
     ]

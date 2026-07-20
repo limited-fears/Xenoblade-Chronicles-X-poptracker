@@ -493,12 +493,12 @@
   },
 
   {
-    "name": "The Duel III1",
+    "name": "The Duel III",
     "sections": [
-      { "ref": "SEG/Administrative-District/The Duel III1" }
+      { "ref": "SEG/Administrative-District/The Duel III" }
     ],
     "map_locations": [
-      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+      { "map": "Admin", "x": 348, "y": 608, "size": 10 }
     ]
   },
 
@@ -638,70 +638,28 @@
     "children":[
   {
     "name": "Division Drive",
-    "sections": [
-      {
-        "ref": "LOC/Admin/Division Drive"
-      }
-    ],
+    "sections": [{"ref": "LOC/Admin/Division Drive"}],
     "map_locations": [
-      {
-        "map": "Admin",
-        "x": 0,
-        "y": 0,
-        "size": 10
-      }
-    ]
+      {"map": "Admin","x": 394,"y": 167,"size": 10}]
   },
 
   {
     "name": "Armory Alley",
-    "sections": [
-      {
-        "ref": "LOC/Admin/Armory Alley"
-      }
-    ],
+    "sections": [{"ref": "LOC/Admin/Armory Alley"}],
     "map_locations": [
-      {
-        "map": "Admin",
-        "x": 0,
-        "y": 0,
-        "size": 10
-      }
-    ]
+      {"map": "Admin","x": 294,"y": 328,"size": 10}]
   },
 
   {
     "name": "Yardleys Hideaway",
-    "sections": [
-      {
-        "ref": "LOC/Admin/Yardleys Hideaway"
-      }
-    ],
-    "map_locations": [
-      {
-        "map": "Admin",
-        "x": 0,
-        "y": 0,
-        "size": 10
-      }
-    ]
+    "sections": [{"ref": "LOC/Admin/Yardleys Hideaway"}],
+    "map_locations": [{"map": "Admin","x": 365,"y": 303,"size": 10}]
   },
 
   {
     "name": "East Gate",
-    "sections": [
-      {
-        "ref": "LOC/Admin/East Gate"
-      }
-    ],
-    "map_locations": [
-      {
-        "map": "Admin",
-        "x": 0,
-        "y": 0,
-        "size": 10
-      }
-    ]
+    "sections": [{"ref": "LOC/Admin/East Gate"}],
+    "map_locations": [{"map": "Admin","x": 434,"y": 323,"size": 10}]
   },
 
   {
@@ -713,10 +671,7 @@
     ],
     "map_locations": [
       {
-        "map": "Admin",
-        "x": 0,
-        "y": 0,
-        "size": 10
+        "map": "Admin","x": 198,"y": 426,"size": 10
       }
     ]
   },
@@ -731,8 +686,8 @@
     "map_locations": [
       {
         "map": "Admin",
-        "x": 0,
-        "y": 0,
+"x": 388,
+"y": 420,
         "size": 10
       }
     ]
@@ -748,8 +703,8 @@
     "map_locations": [
       {
         "map": "Admin",
-        "x": 0,
-        "y": 0,
+"x": 426,
+"y": 380,
         "size": 10
       }
     ]
@@ -765,8 +720,8 @@
     "map_locations": [
       {
         "map": "Admin",
-        "x": 0,
-        "y": 0,
+"x": 403,
+"y": 541,
         "size": 10
       }
     ]
@@ -782,8 +737,8 @@
     "map_locations": [
       {
         "map": "Admin",
-        "x": 0,
-        "y": 0,
+"x": 296,
+"y": 196,
         "size": 10
       }
     ]
@@ -799,8 +754,8 @@
     "map_locations": [
       {
         "map": "Admin",
-        "x": 0,
-        "y": 0,
+"x": 306,
+"y": 305,
         "size": 10
       }
     ]

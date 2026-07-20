@@ -393,7 +393,7 @@
 {
   "name":"LOC",
   "children":[
-    [
+    
   {
     "name": "Water Purification Plant",
     "sections": [
@@ -404,8 +404,8 @@
     "map_locations": [
       {
         "map": "Residental",
-        "x": 0,
-        "y": 0,
+"x": 293,
+"y": 90,
         "size": 10
       }
     ]
@@ -421,8 +421,8 @@
     "map_locations": [
       {
         "map": "Residental",
-        "x": 0,
-        "y": 0,
+"x": 190,
+"y": 216,
         "size": 10
       }
     ]
@@ -438,8 +438,8 @@
     "map_locations": [
       {
         "map": "Residental",
-        "x": 0,
-        "y": 0,
+"x": 430,
+"y": 203,
         "size": 10
       }
     ]
@@ -455,8 +455,8 @@
     "map_locations": [
       {
         "map": "Residental",
-        "x": 0,
-        "y": 0,
+"x": 192,
+"y": 452,
         "size": 10
       }
     ]
@@ -472,13 +472,12 @@
     "map_locations": [
       {
         "map": "Residental",
-        "x": 0,
-        "y": 0,
+"x": 359,
+"y": 384,
         "size": 10
       }
     ]
   }
 ]
-
-  ]
-}]
+}
+]
