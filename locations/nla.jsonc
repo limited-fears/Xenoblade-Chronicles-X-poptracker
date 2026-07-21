@@ -745,8 +745,12 @@
 		"access_rules":["Chap:5"]
 	},
 	{
-		"name":"House of Cards5",
+		"name":"House of Cards",
 		"access_rules":["Chap:5"]
+	},
+	{
+		"name":"Booming Business",
+		"access_rules":["chap:5"]
 	},
 	{
 		"name":"Rescue at the Ensconced Citadel",

@@ -316,36 +316,36 @@ LOCATION_MAPPING = {
 		[4100301] = {"@EBK/Origin Blatta/Prologue"},
 		[4100302] = {"@EBK/Callow Grex/Prologue"},
 		[4100303] = {"@EBK/Elder Grex/Prologue"},
-		[4100304] = {"@EBK/Volkampf, the Pursuer/Chp 2/Story"},
-		[4100305] = {"@EBK/Glennar/Chp 3/Story"},
-		[4100306] = {"@EBK/Goetia/Chp 4/Story"},
-		[4100307] = {"@EBK/Tainted Sphinx/Chp 6/Story"},
-		[4100308] = {"@EBK/Almandal/Chp 7/Story"},
-		[4100309] = {"@EBK/Dagahn/Chp 8/Story"},
-		[4100310] = {"@EBK/Ryyz/Chp 8/Story"},
-		[4100311] = {"@EBK/Wrothian Enacter/Chp 9/Story"},
-		[4100312] = {"@EBK/Wrothian Sneaker/Chp 9/Story"},
-		[4100313] = {"@EBK/Ga Jiarg/Chp 9/Story"},
-		[4100314] = {"@EBK/Ga Buidhe/Chp 9/Story"},
-		[4100315] = {"@EBK/Vasara/Chp 9/Story"},
-		[4100316] = {"@EBK/Deva Caladar/Chp 9/Story"},
-		[4100317] = {"@EBK/Caladar/Chp 9/Story"},
-		[4100318] = {"@EBK/Zu Pharg/Chp 10/Story"},
-		[4100319] = {"@EBK/Prog Ares/Chp 11/Story"},
-		[4100320] = {"@EBK/Vita/Chp 12/Story"},
-		[4100321] = {"@EBK/Shield Satellis/Chp 12/Story"},
-		[4100322] = {"@EBK/Strike Satellis/Chp 12/Story"},
-		[4100323] = {"@EBK/Link Satellis/Chp 12/Story"},
-		[4100324] = {"@EBK/Enhancer Satellis/Chp 12/Story"},
-		[4100325] = {"@EBK/Pursuit Satellis Alpha/Chp 12/Story"},
-		[4100326] = {"@EBK/Pursuit Satellis Beta/Chp 12/Story"},
-		[4100327] = {"@EBK/Pursuit Satellis Gamma/Chp 12/Story"},
-		[4100328] = {"@EBK/Soldier Chimera/Chp 12/Story"},
-		[4100329] = {"@EBK/Lao/Chp 12/Story"},
-		[4100330] = {"@EBK/Queen Chimera/Chp 12/Story"},
-		[4100331] = {"@EBK/Minor Chimera/Chp 12/Story"},
-		[4100332] = {"@EBK/Mezzo Chimera/Chp 12/Story"},
-		[4100333] = {"@EBK/Major Chimera/Chp 12/Story"},
+		[4100304] = {"@EBK/Volkampf, the Pursuer/Story"},
+		[4100305] = {"@EBK/Glennar/Story"},
+		[4100306] = {"@EBK/Goetia/Story"},
+		[4100307] = {"@EBK/Tainted Sphinx/Story"},
+		[4100308] = {"@EBK/Almandal/Story"},
+		[4100309] = {"@EBK/Dagahn/Story"},
+		[4100310] = {"@EBK/Ryyz/Story"},
+		[4100311] = {"@EBK/Wrothian Enacter/Story"},
+		[4100312] = {"@EBK/Wrothian Sneaker/Story"},
+		[4100313] = {"@EBK/Ga Jiarg/Story"},
+		[4100314] = {"@EBK/Ga Buidhe/Story"},
+		[4100315] = {"@EBK/Vasara/Story"},
+		[4100316] = {"@EBK/Deva Caladar/Story"},
+		[4100317] = {"@EBK/Caladar/Story"},
+		[4100318] = {"@EBK/Zu Pharg/Story"},
+		[4100319] = {"@EBK/Prog Ares/Story"},
+		[4100320] = {"@EBK/Vita/Story"},
+		[4100321] = {"@EBK/Shield Satellis/Story"},
+		[4100322] = {"@EBK/Strike Satellis/Story"},
+		[4100323] = {"@EBK/Link Satellis/Story"},
+		[4100324] = {"@EBK/Enhancer Satellis/Story"},
+		[4100325] = {"@EBK/Pursuit Satellis Alpha/Story"},
+		[4100326] = {"@EBK/Pursuit Satellis Beta/Story"},
+		[4100327] = {"@EBK/Pursuit Satellis Gamma/Story"},
+		[4100328] = {"@EBK/Soldier Chimera/Story"},
+		[4100329] = {"@EBK/Lao/Story"},
+		[4100330] = {"@EBK/Queen Chimera/Story"},
+		[4100331] = {"@EBK/Minor Chimera/Story"},
+		[4100332] = {"@EBK/Mezzo Chimera/Story"},
+		[4100333] = {"@EBK/Major Chimera/Story"},
 
 	--missions
 		[4100351] = {"@EBK/HH100/Hierana/Mia Is Missing!"},
@@ -410,7 +410,7 @@ LOCATION_MAPPING = {
 		[4101664] = {"@EBK/Prone Sorcerer/Cavernous Abyss"},
 
 	--primordia
-		[4100334] = {"@EBK/Nardacyon, the Shadowless/Primordia/Bedrock Hold/Chp 12"},
+		[4100334] = {"@EBK/Nardacyon, the Shadowless/Primordia/Bedrock Hold"},
 		[4100415] = {"@EBK/Pawn Puge/Primordia/Seaswept Base"},
 		[4100421] = {"@EBK/Prototype Puge/Primordia/Bedrock Hold"},
 		[4100427] = {"@EBK/Pawn Pugilith/Primordia/Seaswept Base"},
@@ -623,7 +623,7 @@ LOCATION_MAPPING = {
 
 	--noctilum
 		[4100757] = {"@EBK/False Thallus/noctilum/FN Site 225"},
-		[4100335] = {"@EBK/Lugalbanda, the Wanderer-King/Noctilum/Vitriol Cesspool/Chp 12"},
+		[4100335] = {"@EBK/Lugalbanda, the Wanderer-King/Noctilum/Vitriol Cesspool"},
 		[4100342] = {"@EBK/Pyotr, the Shepherd/Noctilum/Narcissus Tree"},
 		[4100343] = {"@EBK/Heidi, the Lively/Noctilum/Narcissus Tree"},
 		[4100344] = {"@EBK/Claire, the Sheltered/Noctilum/Narcissus Tree"},
@@ -1237,7 +1237,7 @@ LOCATION_MAPPING = {
 		[4101442] = {"@EBK/Buster Emperor Qmoeva/cauldros/FN Site 505"},
 		[4100336] = {"@EBK/Vortice, the Deific Blast/Cauldros/MountMgando/Brimstone Rain"},
 		[4100337] = {"@EBK/Leva'el, the Terminus/Cauldros/Cauldros Waters"},
-		[4100338] = {"@EBK/Sentinel Satellis/Cauldros/Cauldros Waters/Chp 12"},
+		[4100338] = {"@EBK/Sentinel Satellis/Cauldros/Cauldros Waters"},
 		[4100426] = {"@EBK Combat Puge/Cauldros/Ruined City of O'rrh Sim"},
 		[4100440] = {"@EBK/Talon Eagle Galdr/Cauldros/O'rrh Sim Castle Ruins"},
 		[4100441] = {"@EBK/Armed Recon Galdr/Cauldros/West Cauldros Waters"},
@@ -1755,46 +1755,46 @@ LOCATION_MAPPING = {
 
 		--Chapters
 			--ch3
-				[4101984] = {"@SEG/Residental-District/Hope Springs Eternal/Cathedral/Chp 3"},
+				[4101984] = {"@SEG/Residental-District/Hope Springs Eternal/Cathedral"},
 
 			--ch4
-				[4101949] = {"@SEG/Residental-District/The Celeste Three/Deliverance Park/Chp 4"},
-				[4101962] = {"@SEG/Residental-District/Foggy Dilemma/Water Puri Plant/Chp 4"},
+				[4101949] = {"@SEG/Residental-District/The Celeste Three/Deliverance Park"},
+				[4101962] = {"@SEG/Residental-District/Foggy Dilemma/Water Puri Plant"},
 
 			--ch5
-				[4101977] = {"@SEG/Residental-District/Water Woes/Water Puri Plant/Chp 5"},
+				[4101977] = {"@SEG/Residental-District/Water Woes/Water Puri Plant"},
 
 			--ch6
-				[4101976] = {"@SEG/Residental-District/Lakeside Getaway/Water Puri Plant/Chp 6"},
-				[4101985] = {"@SEG/Residental-District/The Miracle Maker/Cathedral/Chp 6"},
+				[4101976] = {"@SEG/Residental-District/Lakeside Getaway/Water Puri Plant"},
+				[4101985] = {"@SEG/Residental-District/The Miracle Maker/Cathedral"},
 
 			--ch7
-				[4101940] = {"@SEG/Residental-District/Circle of Life/Deliverance Park/Chp 7"},
-				[4101987] = {"@SEG/Residental-District/A Great Divide/Ishmael Hills/Phog 2/Chp 7"},
-				[4101997] = {"@SEG/Residental-District/The Journey Begins/Cathedral/Chp 7"},
+				[4101940] = {"@SEG/Residental-District/Circle of Life/Deliverance Park"},
+				[4101987] = {"@SEG/Residental-District/A Great Divide/Ishmael Hills/Phog 2"},
+				[4101997] = {"@SEG/Residental-District/The Journey Begins/Cathedral"},
 
 			--ch8
-				[4101989] = {"@SEG/Residental-District/Shotgun Diplomacy/Cathedral/Chp 8"},
-				[4101991] = {"@SEG/Residental-District/Rites of Ruin/Cathedral/Chp 8"},
+				[4101989] = {"@SEG/Residental-District/Shotgun Diplomacy/Cathedral"},
+				[4101991] = {"@SEG/Residental-District/Rites of Ruin/Cathedral"},
 
 			--ch9
-				[4101947] = {"@SEG/Residental-District/Herbivores, Unite!/Deliverance Park/Chp 9"},
-				[4101955] = {"@SEG/Residental-District/The Line of Fire/Deliverance Park/Chp 9"},
+				[4101947] = {"@SEG/Residental-District/Herbivores, Unite!/Deliverance Park"},
+				[4101955] = {"@SEG/Residental-District/The Line of Fire/Deliverance Park"},
 
 			--ch10
-				[4101948] = {"@SEG/Residental-District/A Present for Hope/Deliverance Park/Hope 4/Chp 10"},
-				[4101967] = {"@SEG/Residental-District/Bread and a Circus/Ishmael Hills/Chp 10"},
-				[4101973] = {"@SEG/Residental-District/Alexs Last Stand/Ishmael Hills/Chp 10"},
-				[4101988] = {"@SEG/Residental-District/The Bug Whisperer/Ishmael Hills/Chp 10"},
+				[4101948] = {"@SEG/Residental-District/A Present for Hope/Deliverance Park/Hope 4"},
+				[4101967] = {"@SEG/Residental-District/Bread and a Circus/Ishmael Hills"},
+				[4101973] = {"@SEG/Residental-District/Alexs Last Stand/Ishmael Hills"},
+				[4101988] = {"@SEG/Residental-District/The Bug Whisperer/Ishmael Hills"},
 
 			--ch11
-				[4101957] = {"@SEG/Residental-District/Planetary Pioneer V/Deliverance Park/Chp 11"},
+				[4101957] = {"@SEG/Residental-District/Planetary Pioneer V/Deliverance Park"},
 
 			--ch12
-				[4101969] = {"@SEG/Residental-District/New Frontier/Cathedral/Chp 12"},
-				[4101986] = {"@SEG/Residental-District/The Divine Nopopon/Ishmael Hills/Chp 12"},
-				[4101992] = {"@SEG/Residental-District/Definian Love/Ishmael Hills/Chp 12"},
-				[4101996] = {"@SEG/Residental-District/A Fateful Choice/Cathedral/Chp 12"},
+				[4101969] = {"@SEG/Residental-District/New Frontier/Cathedral"},
+				[4101986] = {"@SEG/Residental-District/The Divine Nopopon/Ishmael Hills"},
+				[4101992] = {"@SEG/Residental-District/Definian Love/Ishmael Hills"},
+				[4101996] = {"@SEG/Residental-District/A Fateful Choice/Cathedral"},
 
 		--Field skills
 			--Mechanical
@@ -1832,74 +1832,75 @@ LOCATION_MAPPING = {
 
 		--Chapters
 			--ch2
-				[4102060] = {"@SEG/Administrative-District/Myles to Go/East Gate/Chp 2"},
-				[4102041] = {"@SEG/Administrative-District/The Probe-fessional/Mimeo Maint Center/Chp 2"},
+				[4102060] = {"@SEG/Administrative-District/Myles to Go/East Gate"},
+				[4102041] = {"@SEG/Administrative-District/The Probe-fessional/Mimeo Maint Center"},
 
 			--ch3
-				[4102008] = {"@SEG/Administrative-District/Doug/Hangar/Chp 3"},
-				[4102024] = {"@SEG/Administrative-District/Mamma Mia!/Hangar/Chp 3"},
-				[4102039] = {"@SEG/Administrative-District/BLADE Level Basics/BLADE Concourse/Chp 3"},
-				[4102045] = {"@SEG/Administrative-District/Gwin/Division Drive/Chp 3"},
-				[4102046] = {"@SEG/Administrative-District/City Saviors/Division Drive/Chp 3"},
-				[4102048] = {"@SEG/Administrative-District/Planetary Pioneer I/BLADE Concourse/Chp 3"},
-				[4102058] = {"@SEG/Administrative-District/Irina/BLADE Concourse/Chp 3"},
+				[4102008] = {"@SEG/Administrative-District/Doug/Hangar"},
+				[4102024] = {"@SEG/Administrative-District/Mamma Mia!/Hangar"},
+				[4102039] = {"@SEG/Administrative-District/BLADE Level Basics/BLADE Concourse"},
+				[4102045] = {"@SEG/Administrative-District/Gwin/Division Drive"},
+				[4102046] = {"@SEG/Administrative-District/City Saviors/Division Drive"},
+				[4102048] = {"@SEG/Administrative-District/Planetary Pioneer I/BLADE Concourse"},
+				[4102058] = {"@SEG/Administrative-District/Irina/BLADE Concourse"},
 
 			--ch4
-   				[4102018] = {"@SEG/Administrative-District/L/Armory Alley/Chp 4"},
-				[4102044] = {"@SEG/Administrative-District/Lao/Division Drive/Chp 4"},
-				[4102047] = {"@SEG/Administrative-District/Close Comrades/BLADE Barracks/Chp 4"},
+   				[4102018] = {"@SEG/Administrative-District/L/Armory Alley"},
+				[4102044] = {"@SEG/Administrative-District/Lao/Division Drive"},
+				[4102047] = {"@SEG/Administrative-District/Close Comrades/BLADE Barracks"},
 
 			--ch5
-				[4102004] = {"@SEG/Administrative-District/Prone Sweet Prone/BLADE Tower/Chp 5"},
-				[4102014] = {"@SEG/Administrative-District/The Handy Ma-non/Hangar/Chp 5"},
-				[4102015] = {"@SEG/Administrative-District/My Dream/Hangar/Chp 5"},
-				[4102019] = {"@SEG/Administrative-District/Thats In-Credible!/BLADE Tower/Chp 5"},
-				[4102021] = {"@SEG/Administrative-District/A False Hope/BLADE Tower/Hope 2/Chp 5"},
-				[4102022] = {"@SEG/Administrative-District/Planetary Pioneer II/BLADE Tower/Chp 5"},
-				[4102037] = {"@SEG/Administrative-District/House of Cards/Armory Alley/Chp 5"},
+				[4102004] = {"@SEG/Administrative-District/Prone Sweet Prone/BLADE Tower"},
+				[4102014] = {"@SEG/Administrative-District/The Handy Ma-non/Hangar"},
+				[4102015] = {"@SEG/Administrative-District/My Dream/Hangar"},
+				[4102019] = {"@SEG/Administrative-District/Thats In-Credible!/BLADE Tower"},
+				[4102021] = {"@SEG/Administrative-District/A False Hope/BLADE Tower/Hope 2"},
+				[4102022] = {"@SEG/Administrative-District/Planetary Pioneer II/BLADE Tower"},
+				[4102037] = {"@SEG/Administrative-District/House of Cards/Armory Alley"},
+				[4102029] = {"@SEG/Administrative-District/Booming Business"},
 
 			--ch6
-				[4102012] = {"@SEG/Administrative-District/Rescue at the Ensconced Citadel/BLADE Tower/Chp 6"},
-				[4102035] = {"@SEG/Administrative-District/The Skell License/Hangar/Chp 6"},
-				[4102054] = {"@SEG/Administrative-District/Frontier Spirit/Division Drive/Chp 6"},
-				[4102056] = {"@SEG/Administrative-District/Close Encounters/BLADE Barracks/Chp 6"},
+				[4102012] = {"@SEG/Administrative-District/Rescue at the Ensconced Citadel/BLADE Tower"},
+				[4102035] = {"@SEG/Administrative-District/The Skell License/Hangar"},
+				[4102054] = {"@SEG/Administrative-District/Frontier Spirit/Division Drive"},
+				[4102056] = {"@SEG/Administrative-District/Close Encounters/BLADE Barracks"},
 
 			--ch7
-				[4102002] = {"@SEG/Administrative-District/Attack on Biahno Hills/BLADE Tower/Chp 7"},
-				[4102011] = {"@SEG/Administrative-District/Spy Games/BLADE Tower/Chp 7"},
-        		[4102040] = {"@SEG/Administrative-District/Soldier of the Harriers/Mimeo Maint Center/Doug 3/Chp 7"},
-				[4102050] = {"@SEG/Administrative-District/Ovah and Out/Mimeo Maint Center/Chp 7"},
+				[4102002] = {"@SEG/Administrative-District/Attack on Biahno Hills/BLADE Tower"},
+				[4102011] = {"@SEG/Administrative-District/Spy Games/BLADE Tower"},
+        		[4102040] = {"@SEG/Administrative-District/Soldier of the Harriers/Mimeo Maint Center/Doug 3"},
+				[4102050] = {"@SEG/Administrative-District/Ovah and Out/Mimeo Maint Center"},
 
 			--ch8
-				[4102010] = {"@SEG/Administrative-District/Manhunt/BLADE Tower/Chp 8"},
-				[4102031] = {"@SEG/Administrative-District/Setting Forth/Mimeo Maint Center/Chp 8"},
-				[4102033] = {"@SEG/Administrative-District/Planetary Pioneer IV/Division Drive/Chp 8"},
-				[4102062] = {"@SEG/Administrative-District/Blitzkrieg/East Gate/Phog 3 Frye 3/Chp 8"},
+				[4102010] = {"@SEG/Administrative-District/Manhunt/BLADE Tower"},
+				[4102031] = {"@SEG/Administrative-District/Setting Forth/Mimeo Maint Center"},
+				[4102033] = {"@SEG/Administrative-District/Planetary Pioneer IV/Division Drive"},
+				[4102062] = {"@SEG/Administrative-District/Blitzkrieg/East Gate/Phog 3 Frye 3"},
 
 			--ch9
-				[4102001] = {"@SEG/Administrative-District/Cavern Crushers/BLADE Tower/Chp 9"},
+				[4102001] = {"@SEG/Administrative-District/Cavern Crushers/BLADE Tower"},
 
 			--ch10
-				[4102013] = {"@SEG/Administrative-District/The Ultimate Price/BLADE Tower/Chp 10"},
-				[4102020] = {"@SEG/Administrative-District/Reporting for Duty/BLADE Tower/Nagi 3/Chp 10"},
-				[4102028] = {"@SEG/Administrative-District/Ls Conundrum/Armory Alley/L 2/Chp 10"},
-				[4102034] = {"@SEG/Administrative-District/Waste Not, Want Not/Hangar/Chp 10"},
-				[4102043] = {"@SEG/Administrative-District/The Little Rich Girl/Division Drive/Murderess 2/Chp 10"},
-				[4102053] = {"@SEG/Administrative-District/Unknown Assailant/Division Drive/Chp 10"},
-				[4102061] = {"@SEG/Administrative-District/Slovitys Rampage/East Gate/Chp 10"},
+				[4102013] = {"@SEG/Administrative-District/The Ultimate Price/BLADE Tower"},
+				[4102020] = {"@SEG/Administrative-District/Reporting for Duty/BLADE Tower/Nagi 3"},
+				[4102028] = {"@SEG/Administrative-District/Ls Conundrum/Armory Alley/L 2"},
+				[4102034] = {"@SEG/Administrative-District/Waste Not, Want Not/Hangar"},
+				[4102043] = {"@SEG/Administrative-District/The Little Rich Girl/Division Drive/Murderess 2"},
+				[4102053] = {"@SEG/Administrative-District/Unknown Assailant/Division Drive"},
+				[4102061] = {"@SEG/Administrative-District/Slovitys Rampage/East Gate"},
 
 			--ch11
-				[4101999] = {"@SEG/Administrative-District/The Duel II/BLADE Tower/Chp 11"},
-				[4102026] = {"@SEG/Administrative-District/Brotherly Love/Hangar/Phog 4 Frye 4/Chp 11"},
-				[4102030] = {"@SEG/Administrative-District/Lend an Ear/BLADE Tower/Chp 11"},
-				[4102038] = {"@SEG/Administrative-District/White Lifehold/Armory Alley/Chp 11"},
-				[4102042] = {"@SEG/Administrative-District/The Duel III/Mimeo Maint Center/Chp 11"},
-				[4102052] = {"@SEG/Administrative-District/Mia Is Missing!/Mimeo Maint Center/Chp 11"},
+				[4101999] = {"@SEG/Administrative-District/The Duel II/BLADE Tower"},
+				[4102026] = {"@SEG/Administrative-District/Brotherly Love/Hangar/Phog 4 Frye 4"},
+				[4102030] = {"@SEG/Administrative-District/Lend an Ear/BLADE Tower"},
+				[4102038] = {"@SEG/Administrative-District/White Lifehold/Armory Alley"},
+				[4102042] = {"@SEG/Administrative-District/The Duel III/Mimeo Maint Center"},
+				[4102052] = {"@SEG/Administrative-District/Mia Is Missing!/Mimeo Maint Center"},
 
 			--ch12
-				[4102017] = {"@SEG/Administrative-District/The Nopon Heir/Armory Alley/L 4/Chp 12"},
-				[4102051] = {"@SEG/Administrative-District/Cooking Schooled/Mimeo Maint Center/Chp 12"},
-				[4102025] = {"@SEG/Administrative-District/Mia Grows Up/Hangar/Mia 4/Chp 12"},
+				[4102017] = {"@SEG/Administrative-District/The Nopon Heir/Armory Alley/L 4"},
+				[4102051] = {"@SEG/Administrative-District/Cooking Schooled/Mimeo Maint Center"},
+				[4102025] = {"@SEG/Administrative-District/Mia Grows Up/Hangar/Mia 4"},
 		--Field skills
 			--Mechanical
 				[4102005] = {"@SEG/Administrative-District/Large Container/BLADE Tower/Mechanical 4"},
@@ -1961,38 +1962,38 @@ LOCATION_MAPPING = {
 			[4101932] = {"@SEG/Manon-Ship/Elma 4 H2H/Starboard"},
 		--Chapters
 			--ch5
-			[4101931] = {"@SEG/Manon-Ship/Tree-mendous/Starboard/Chp 5"},
+			[4101931] = {"@SEG/Manon-Ship/Tree-mendous/Starboard"},
 
 			--ch6
-			[4101923] = {"@SEG/Manon-Ship/A Grim Undertaking/Port Side/Chp 6"},
-			[4101930] = {"@SEG/Manon-Ship/The Membership/Starboard/Chp 6"},
+			[4101923] = {"@SEG/Manon-Ship/A Grim Undertaking/Port Side"},
+			[4101930] = {"@SEG/Manon-Ship/The Membership/Starboard"},
 
 			--ch7
-			[4101918] = {"@SEG/Manon-Ship/Gorkwa Games/Port Side/Chp 7"},
-			[4101935] = {"@SEG/Manon-Ship/Training Day/Starboard/Chp 7"},
+			[4101918] = {"@SEG/Manon-Ship/Gorkwa Games/Port Side"},
+			[4101935] = {"@SEG/Manon-Ship/Training Day/Starboard"},
 
 			--ch8
-			[4101916] = {"@SEG/Manon-Ship/Forbidden Love/Port Side/Chp 8"},		
-			[4101936] = {"@SEG/Manon-Ship/The Art of War/Starboard/Chp 8"},
+			[4101916] = {"@SEG/Manon-Ship/Forbidden Love/Port Side"},		
+			[4101936] = {"@SEG/Manon-Ship/The Art of War/Starboard"},
 
 			--ch9
-			[4101921] = {"@SEG/Manon-Ship/Here Come the Brides/Port Side/Chp 9"},
+			[4101921] = {"@SEG/Manon-Ship/Here Come the Brides/Port Side"},
 
 			--ch10
-			[4101917] = {"@SEG/Manon-Ship/No-show Nenceleg/Port Side/Chp 10"},
-			[4101919] = {"@SEG/Manon-Ship/House Call/Port Side/Chp 10"},
+			[4101917] = {"@SEG/Manon-Ship/No-show Nenceleg/Port Side"},
+			[4101919] = {"@SEG/Manon-Ship/House Call/Port Side"},
 
 			--ch11
-			[4101920] = {"@SEG/Manon-Ship/A New Life/Port Side/Chp 11"},
-			[4101937] = {"@SEG/Manon-Ship/Slovitys Revenge/Starboard/Chp 11"},
+			[4101920] = {"@SEG/Manon-Ship/A New Life/Port Side"},
+			[4101937] = {"@SEG/Manon-Ship/Slovitys Revenge/Starboard"},
 
 			--ch12
-			[4101922] = {"@SEG/Manon-Ship/The Unbreakable Sword/Port Side/Chp 12"},
-			[4101925] = {"@SEG/Manon-Ship/The Lurker/Deck/Chp 12"},
-			[4101926] = {"@SEG/Manon-Ship/Snipe Hunt/Deck/Chp 12"},
-			[4101933] = {"@SEG/Manon-Ship/The Old Gods/Starboard/Chp 12"},
-			[4101934] = {"@SEG/Manon-Ship/An Ancient Legend/Starboard/Chp 12"},
-			[4101938] = {"@SEG/Manon-Ship/The Party Line/Starboard/Chp 12"},
+			[4101922] = {"@SEG/Manon-Ship/The Unbreakable Sword/Port Side"},
+			[4101925] = {"@SEG/Manon-Ship/The Lurker/Deck"},
+			[4101926] = {"@SEG/Manon-Ship/Snipe Hunt/Deck"},
+			[4101933] = {"@SEG/Manon-Ship/The Old Gods/Starboard"},
+			[4101934] = {"@SEG/Manon-Ship/An Ancient Legend/Starboard"},
+			[4101938] = {"@SEG/Manon-Ship/The Party Line/Starboard"},
 
 		--Characters
 			[4101927] = {"@SEG/Manon-Ship/Mia/Deck"},
@@ -2027,14 +2028,14 @@ LOCATION_MAPPING = {
 			[4102127] = {"@SEG/Primordia/Rajidi, the Cumuliform"},
 		--chapters
 			--Chp 2
-				[4102082] = {"@SEG/Primordia/Cinicula Assault/Grieving Plains/Chp 2"},
-				[4102103] = {"@SEG/Primordia/Welcome Back, Conner/Sayram Northeast Plain/Chp 2"},
+				[4102082] = {"@SEG/Primordia/Cinicula Assault/Grieving Plains"},
+				[4102103] = {"@SEG/Primordia/Welcome Back, Conner/Sayram Northeast Plain"},
 
 			--Chp9
-				[4102077] = {"@SEG/Primordia/Haywire!/Water Puri Plant/Chp 9"},
+				[4102077] = {"@SEG/Primordia/Haywire!/Water Puri Plant"},
 
 			--Chp11
-				[4102070] = {"@SEG/Primordia/The Queen Is Dead/Stickstone Rise/Chp 11"},
+				[4102070] = {"@SEG/Primordia/The Queen Is Dead/Stickstone Rise"},
 		--field skills
 			--Archeological
 			[4102066] = {"@SEG/Primordia/Alien Container/Bedrock Hold/Archeological 5"},
@@ -2104,11 +2105,11 @@ LOCATION_MAPPING = {
 			[4102177] = {"@SEG/Noctilum/Buchwald, the Guardian/Rockmoles Burrow/Tyrant"},
 		--chapters
 			--Chp 3
-				[4102180] = {"@SEG/Noctilum/Data Miner/Potters Rock/Chp 3"},
+				[4102180] = {"@SEG/Noctilum/Data Miner/Potters Rock"},
 
 			--Chp 5 
-				[4102164] = {"@SEG/Noctilum/Adventure!/Skybound Coil Tree/Chp 5"},
-				[4102175] = {"@SEG/Noctilum/Missing in Action/Whales Nostril/Chp 5"},
+				[4102164] = {"@SEG/Noctilum/Adventure!/Skybound Coil Tree"},
+				[4102175] = {"@SEG/Noctilum/Missing in Action/Whales Nostril"},
 		--field skills
 			--Archeological
 			[4102157] = {"@SEG/Noctilum/Alien Wreckage/Qing Long Glade/Archeological 2"},
@@ -2181,12 +2182,12 @@ LOCATION_MAPPING = {
 			[4102250] = {"@SEG/Oblivia/Bertrand, the Gorge Scourge/East Ibra Ravine/Tyrant"},
 
 		--chp 2
-			[4102205] = {"@SEG/Oblivia/Mayday/Aaroy Plain/Chp 2"},
+			[4102205] = {"@SEG/Oblivia/Mayday/Aaroy Plain"},
 		--Chp 3
-			[4102251] = {"@SEG/Oblivia/The Trading Floor/Sea Whisper Valley/Chp 3"},
+			[4102251] = {"@SEG/Oblivia/The Trading Floor/Sea Whisper Valley"},
 
 		--Chp 6
-			[4102217] = {"@SEG/Oblivia/Mighty Mia/Leaning Ring/Chp 6"},
+			[4102217] = {"@SEG/Oblivia/Mighty Mia/Leaning Ring"},
 	--feild skills
 		--Archeological
 			[4102189] = {"@SEG/Oblivia/Alien Wreckage/Mesa Fortress/Archeological 2"},
@@ -2259,14 +2260,14 @@ LOCATION_MAPPING = {
 
 		--chapters
 			--Chp 4
-			[4102256] = {"@SEG/Cauldros/Supplies Surprise/Drongo Caravan/Chp 4"},
+			[4102256] = {"@SEG/Cauldros/Supplies Surprise/Drongo Caravan"},
 
 			--Chp 11
-			[4102281] = {"@SEG/Cauldros/Black Lifehold/Slavebird Isle/Chp 11"},
-			[4102302] = {"@SEG/Cauldros/Until the End/Mgando Gorge/Chp 11"},
+			[4102281] = {"@SEG/Cauldros/Black Lifehold/Slavebird Isle"},
+			[4102302] = {"@SEG/Cauldros/Until the End/Mgando Gorge"},
 
 			--Chp 12
-				[4102284] = {"@SEG/Cauldros/Lionhearted/Ganglion Weapons Hangar/Chp 12"},
+				[4102284] = {"@SEG/Cauldros/Lionhearted/Ganglion Weapons Hangar"},
 
 		--field skills
 			--Archeological		
@@ -2344,23 +2345,23 @@ LOCATION_MAPPING = {
 
 		--chapters
 			--Chp 4
-			[4102318] = {"@SEG/Sylvalum/Lesson from the Grave/Shivering Sands/Chp 4"},
-			[4102326] = {"@SEG/Sylvalum/Castle in the Sky/Lake Ciel/Chp 4"},
+			[4102318] = {"@SEG/Sylvalum/Lesson from the Grave/Shivering Sands"},
+			[4102326] = {"@SEG/Sylvalum/Castle in the Sky/Lake Ciel"},
 
 			--Chp 6
-			[4102319] = {"@SEG/Sylvalum/Predator and Prey/Shivering Sands/Chp 6"},
+			[4102319] = {"@SEG/Sylvalum/Predator and Prey/Shivering Sands"},
 
 			--Chp 7
-			[4102369] = {"@SEG/Sylvalum/Special Delivery/North Silent Sandsea/Chp 7"},
+			[4102369] = {"@SEG/Sylvalum/Special Delivery/North Silent Sandsea"},
 
 			--Chp 8
-			[4102341] = {"@SEG/Sylvalum/Hair Apparent/Lake Ciel/Chp 8"},
+			[4102341] = {"@SEG/Sylvalum/Hair Apparent/Lake Ciel"},
 
 			--Chp 9
-			[4102350] = {"@SEG/Sylvalum/Its-a Mia!/Lake Ciel/Chp 9"},
+			[4102350] = {"@SEG/Sylvalum/Its-a Mia!/Lake Ciel"},
 
 			--Chp 11
-				[4102330] = {"@SEG/Sylvalum/Plans of Attack/Badr Basin/Chp 11"},
+				[4102330] = {"@SEG/Sylvalum/Plans of Attack/Badr Basin"},
 
 		--field skills
 			--Archeological

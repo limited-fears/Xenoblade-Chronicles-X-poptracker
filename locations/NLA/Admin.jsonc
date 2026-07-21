@@ -243,12 +243,21 @@
   },
 
   {
-    "name": "House of Cards5",
+    "name": "House of Cards",
     "sections": [
-      { "ref": "SEG/Administrative-District/House of Cards5" }
+      { "ref": "SEG/Administrative-District/House of Cards" }
     ],
     "map_locations": [
       { "map": "Admin", "x": 333, "y": 322, "size": 10 }
+    ]
+  },
+  {
+    "name": "Booming Business",
+    "sections": [
+      { "ref": "SEG/Administrative-District/Booming Business" }
+    ],
+    "map_locations": [
+      { "map": "Admin", "x": 295, "y": 376, "size": 10 }
     ]
   },
 
@@ -408,7 +417,7 @@
       { "ref": "SEG/Administrative-District/Ls Conundrum" }
     ],
     "map_locations": [
-      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+      { "map": "Admin", "x": 293, "y": 345, "size": 10 }
     ]
   },
 
@@ -598,7 +607,7 @@
       { "ref": "SEG/Administrative-District/Wolf" }
     ],
     "map_locations": [
-      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+      { "map": "Admin", "x": 382, "y": 452, "size": 10 }
     ]
   },
 
@@ -618,7 +627,7 @@
       { "ref": "SEG/Administrative-District/Cedric" }
     ],
     "map_locations": [
-      { "map": "Admin", "x": 0, "y": 0, "size": 10 }
+      { "map": "Admin", "x": 246, "y": 232, "size": 10 }
     ]
   },
 
